@@ -1,0 +1,258 @@
+<html>
+  <body>
+    <div id="example-table"></div>
+
+    <link
+      href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css"
+      rel="stylesheet"
+    />
+    <script
+      type="text/javascript"
+      src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"
+    ></script>
+
+    <script>
+      var table = new Tabulator("#example-table", {
+        maxHeight: "100%",
+        rowHeight: 30,
+        placeholder: "No Data Set",
+        ajaxURL: "weapons.json",
+        layout: "fitData",
+        columns: [
+          { title: "カテゴリ", field: "category" },
+          { title: "名前", field: "name" },
+          {
+            title: "威力",
+            columns: [
+              { title: "ヘッドショットのダメージ", field: "headshot_damage" },
+              { title: "ボディ上部へのダメージ", field: "upper_torso_damage" },
+              { title: "ボディ下部へのダメージ", field: "lower_torso_damage" },
+              { title: "腿へのダメージ", field: "upper_legs_damage" },
+              {
+                title: "ターゲットのひるみ",
+                field: "target_flinch",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " N";
+                },
+              },
+              {
+                title: "ショットガン拡散",
+                field: "shotgun_spread",
+                formatter: function (cell, formatterParams, onRendered) {
+                  if (typeof cell.getValue() === "undefined") {
+                    return "-";
+                  } else {
+                    return cell.getValue() + " °/s";
+                  }
+                },
+              },
+            ],
+          },
+          {
+            title: "射程距離",
+            columns: [
+              {
+                title: "有効射程距離",
+                field: "effective_damage_range",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " m";
+                },
+              },
+              {
+                title: "最小ダメージ射程距離",
+                field: "minimum_damage_range",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " m";
+                },
+              },
+              {
+                title: "弾丸の速度",
+                field: "bullet_velocity",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " m/s";
+                },
+              },
+            ],
+          },
+          {
+            title: "連射速度",
+            columns: [
+              {
+                title: "連射速度",
+                field: "rate_of_fire",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " rpm";
+                },
+              },
+              {
+                title: "再装填時間",
+                field: "rechamber_time",
+                formatter: function (cell, formatterParams, onRendered) {
+                  if (typeof cell.getValue() === "undefined") {
+                    return "-";
+                  } else {
+                    return cell.getValue() + " ミリ秒";
+                  }
+                },
+              },
+              {
+                title: "オープンボルト遅延",
+                field: "open_bolt_delay",
+                formatter: function (cell, formatterParams, onRendered) {
+                  if (typeof cell.getValue() === "undefined") {
+                    return "-";
+                  } else {
+                    return cell.getValue() + " ミリ秒";
+                  }
+                },
+              },
+            ],
+          },
+          {
+            title: "反動制御",
+            columns: [
+              {
+                title: "反動ガンキック",
+                field: "recoil_gun_kick",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " °/s";
+                },
+              },
+              {
+                title: "水平反動",
+                field: "horizontal_recoil",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " °/s";
+                },
+              },
+              {
+                title: "垂直反動",
+                field: "vertical_recoil",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " °/s";
+                },
+              },
+            ],
+          },
+          {
+            title: "命中率",
+            columns: [
+              {
+                title: "腰だめ撃ち時のばらつき最小",
+                field: "hipfire_spread_min",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " °/s";
+                },
+              },
+              {
+                title: "腰だめ撃ち時のばらつき最大",
+                field: "hipfire_spread_max",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " °/s";
+                },
+              },
+              {
+                title: "ひるみ耐性",
+                field: "flinch_resistance",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " N";
+                },
+              },
+              {
+                title: "タクティカルスタンス時のばらつき",
+                field: "tactical_stance_spread",
+                formatter: function (cell, formatterParams, onRendered) {
+                  if (typeof cell.getValue() === "undefined") {
+                    return "-";
+                  } else {
+                    return cell.getValue() + " °/s";
+                  }
+                },
+              },
+            ],
+          },
+          {
+            title: "機動性",
+            columns: [
+              {
+                title: "移動速度",
+                field: "movement_speed",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " m/s";
+                },
+              },
+              {
+                title: "しゃがみ時の移動速度",
+                field: "crouch_movement_speed",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " m/s";
+                },
+              },
+              {
+                title: "ダッシュ速度",
+                field: "sprint_speed",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " m/s";
+                },
+              },
+              {
+                title: "タクティカルダッシュ速度",
+                field: "tactical_sprint_speed",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " m/s";
+                },
+              },
+              {
+                title: "エイム時の移動速度",
+                field: "ads_movement_speed",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " m/s";
+                },
+              },
+            ],
+          },
+          {
+            title: "操作性",
+            columns: [
+              {
+                title: "エイム速度",
+                field: "ads_speed",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " ミリ秒";
+                },
+              },
+              {
+                title: "リロード速度",
+                field: "reload_quickness",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " 秒";
+                },
+              },
+              {
+                title: "撃ち切り後のリロード速度",
+                field: "empty_reload_quickness",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " 秒";
+                },
+              },
+              {
+                title: "ダッシュ後射撃速度",
+                field: "sprint_to_fire_speed",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " ミリ秒";
+                },
+              },
+              {
+                title: "切替速度",
+                field: "swap_speed",
+                formatter: function (cell, formatterParams, onRendered) {
+                  return cell.getValue() + " ミリ秒";
+                },
+              },
+            ],
+          },
+        ],
+      });
+    </script>
+  </body>
+</html>
