@@ -36,27 +36,32 @@
             title: "威力",
             columns: [
               {
-                title: "ヘッドショットのダメージ",
+                title: "頭",
+                headerTooltip: "ヘッドショットのダメージ",
                 field: "headshot_damage",
                 hozAlign: "right",
               },
               {
-                title: "ボディ上部へのダメージ",
+                title: "上",
+                headerTooltip: "ボディ上部へのダメージ",
                 field: "upper_torso_damage",
                 hozAlign: "right",
               },
               {
-                title: "ボディ下部へのダメージ",
+                title: "下",
+                headerTooltip: "ボディ下部へのダメージ",
                 field: "lower_torso_damage",
                 hozAlign: "right",
               },
               {
-                title: "腿へのダメージ",
+                title: "腿",
+                headerTooltip: "腿へのダメージ",
                 field: "upper_legs_damage",
                 hozAlign: "right",
               },
               {
-                title: "ターゲットのひるみ",
+                title: "怯み",
+                headerTooltip: "ターゲットのひるみ",
                 field: "target_flinch",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -64,7 +69,8 @@
                 },
               },
               {
-                title: "ショットガン拡散",
+                title: "拡散",
+                headerTooltip: "ショットガン拡散",
                 field: "shotgun_spread",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -81,7 +87,8 @@
             title: "射程距離",
             columns: [
               {
-                title: "有効射程距離",
+                title: "有効射程",
+                headerTooltip: "有効射程距離",
                 field: "effective_damage_range",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -89,7 +96,8 @@
                 },
               },
               {
-                title: "最小ダメージ射程距離",
+                title: "最小ダメ",
+                headerTooltip: "最小ダメージ射程距離",
                 field: "minimum_damage_range",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -97,7 +105,8 @@
                 },
               },
               {
-                title: "弾丸の速度",
+                title: "弾速",
+                headerTooltip: "弾丸の速度",
                 field: "bullet_velocity",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -130,7 +139,8 @@
                 },
               },
               {
-                title: "オープンボルト遅延",
+                title: "OB遅延",
+                headerTooltip: "オープンボルト遅延",
                 field: "open_bolt_delay",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -147,7 +157,8 @@
             title: "反動制御",
             columns: [
               {
-                title: "反動ガンキック",
+                title: "ガンキック",
+                headerTooltip: "反動ガンキック",
                 field: "recoil_gun_kick",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -176,7 +187,8 @@
             title: "命中率",
             columns: [
               {
-                title: "腰だめ撃ち時のばらつき最小",
+                title: "腰最小",
+                headerTooltip: "腰だめ撃ち時のばらつき最小",
                 field: "hipfire_spread_min",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -184,7 +196,8 @@
                 },
               },
               {
-                title: "腰だめ撃ち時のばらつき最大",
+                title: "腰最大",
+                headerTooltip: "腰だめ撃ち時のばらつき最大",
                 field: "hipfire_spread_max",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -192,7 +205,8 @@
                 },
               },
               {
-                title: "ひるみ耐性",
+                title: "怯耐性",
+                headerTooltip: "ひるみ耐性",
                 field: "flinch_resistance",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -200,7 +214,8 @@
                 },
               },
               {
-                title: "タクティカルスタンス時のばらつき",
+                title: "TAC",
+                headerTooltip: "タクティカルスタンス時のばらつき",
                 field: "tactical_stance_spread",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -217,7 +232,8 @@
             title: "機動性",
             columns: [
               {
-                title: "移動速度",
+                title: "速度",
+                headerTooltip: "移動速度",
                 field: "movement_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -225,7 +241,8 @@
                 },
               },
               {
-                title: "しゃがみ時の移動速度",
+                title: "しゃがみ",
+                headerTooltip: "しゃがみ時の移動速度",
                 field: "crouch_movement_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -233,7 +250,8 @@
                 },
               },
               {
-                title: "ダッシュ速度",
+                title: "ダッシュ",
+                headerTooltip: "ダッシュ速度",
                 field: "sprint_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -241,7 +259,8 @@
                 },
               },
               {
-                title: "タクティカルダッシュ速度",
+                title: "TAC",
+                headerTooltip: "タクティカルダッシュ速度",
                 field: "tactical_sprint_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -249,7 +268,8 @@
                 },
               },
               {
-                title: "エイム時の移動速度",
+                title: "ADS",
+                headerTooltip: "エイム時の移動速度",
                 field: "ads_movement_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -262,7 +282,8 @@
             title: "操作性",
             columns: [
               {
-                title: "エイム速度",
+                title: "ADS",
+                headerTooltip: "エイム速度",
                 field: "ads_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -270,7 +291,8 @@
                 },
               },
               {
-                title: "リロード速度",
+                title: "リロード",
+                headerTooltip: "リロード速度",
                 field: "reload_quickness",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -278,7 +300,8 @@
                 },
               },
               {
-                title: "撃ち切り後のリロード速度",
+                title: "撃ち切り",
+                headerTooltip: "撃ち切り後のリロード速度",
                 field: "empty_reload_quickness",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
@@ -286,7 +309,8 @@
                 },
               },
               {
-                title: "ダッシュ後射撃速度",
+                title: "ダッシュ後",
+                headerTooltip: "ダッシュ後射撃速度",
                 field: "sprint_to_fire_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
