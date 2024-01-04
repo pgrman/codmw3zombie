@@ -60,7 +60,7 @@
                 field: "target_flinch",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " N";
+                  return cell.getValue().toFixed(1) + " N";
                 },
               },
               {
@@ -71,7 +71,7 @@
                   if (typeof cell.getValue() === "undefined") {
                     return "-";
                   } else {
-                    return cell.getValue() + " °/s";
+                    return cell.getValue().toFixed(1) + " °/s";
                   }
                 },
               },
@@ -85,7 +85,7 @@
                 field: "effective_damage_range",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " m";
+                  return cell.getValue().toFixed(1) + " m";
                 },
               },
               {
@@ -93,7 +93,7 @@
                 field: "minimum_damage_range",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " m";
+                  return cell.getValue().toFixed(1) + " m";
                 },
               },
               {
@@ -101,7 +101,7 @@
                 field: "bullet_velocity",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " m/s";
+                  return cell.getValue().toFixed(1) + " m/s";
                 },
               },
             ],
@@ -114,7 +114,7 @@
                 field: "rate_of_fire",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " rpm";
+                  return cell.getValue().toFixed(1) + " rpm";
                 },
               },
               {
@@ -151,7 +151,7 @@
                 field: "recoil_gun_kick",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " °/s";
+                  return cell.getValue().toFixed(2) + " °/s";
                 },
               },
               {
@@ -159,7 +159,7 @@
                 field: "horizontal_recoil",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " °/s";
+                  return cell.getValue().toFixed(2) + " °/s";
                 },
               },
               {
@@ -167,7 +167,7 @@
                 field: "vertical_recoil",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " °/s";
+                  return cell.getValue().toFixed(2) + " °/s";
                 },
               },
             ],
@@ -180,7 +180,7 @@
                 field: "hipfire_spread_min",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " °/s";
+                  return cell.getValue().toFixed(1) + " °/s";
                 },
               },
               {
@@ -188,7 +188,7 @@
                 field: "hipfire_spread_max",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " °/s";
+                  return cell.getValue().toFixed(1) + " °/s";
                 },
               },
               {
@@ -196,7 +196,7 @@
                 field: "flinch_resistance",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " N";
+                  return cell.getValue().toFixed(2) + " N";
                 },
               },
               {
@@ -207,7 +207,7 @@
                   if (typeof cell.getValue() === "undefined") {
                     return "-";
                   } else {
-                    return cell.getValue() + " °/s";
+                    return cell.getValue().toFixed(1) + " °/s";
                   }
                 },
               },
@@ -221,7 +221,7 @@
                 field: "movement_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " m/s";
+                  return cell.getValue().toFixed(1) + " m/s";
                 },
               },
               {
@@ -229,7 +229,7 @@
                 field: "crouch_movement_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " m/s";
+                  return cell.getValue().toFixed(1) + " m/s";
                 },
               },
               {
@@ -237,7 +237,7 @@
                 field: "sprint_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " m/s";
+                  return cell.getValue().toFixed(1) + " m/s";
                 },
               },
               {
@@ -245,7 +245,7 @@
                 field: "tactical_sprint_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " m/s";
+                  return cell.getValue().toFixed(1) + " m/s";
                 },
               },
               {
@@ -253,7 +253,7 @@
                 field: "ads_movement_speed",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " m/s";
+                  return cell.getValue().toFixed(1) + " m/s";
                 },
               },
             ],
@@ -274,7 +274,7 @@
                 field: "reload_quickness",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " 秒";
+                  return cell.getValue().toFixed(1) + " 秒";
                 },
               },
               {
@@ -282,7 +282,7 @@
                 field: "empty_reload_quickness",
                 hozAlign: "right",
                 formatter: function (cell, formatterParams, onRendered) {
-                  return cell.getValue() + " 秒";
+                  return cell.getValue().toFixed(1) + " 秒";
                 },
               },
               {
