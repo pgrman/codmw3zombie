@@ -19,8 +19,19 @@
         ajaxURL: "weapons.json",
         layout: "fitData",
         columns: [
-          { title: "カテゴリ", field: "category" },
-          { title: "名前", field: "name" },
+          {
+            title: "カテゴリ",
+            field: "category",
+            headerFilter: "list",
+            headerFilterParams: { valuesLookup: true, clearable: true },
+            headerFilterPlaceholder: "検索",
+          },
+          {
+            title: "名前",
+            field: "name",
+            headerFilter: "input",
+            headerFilterPlaceholder: "検索",
+          },
           {
             title: "威力",
             columns: [
