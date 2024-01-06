@@ -12,6 +12,11 @@
     ></script>
 
     <script>
+      const shoot_type = {
+        full_auto: "フルオート",
+        semi_auto: "セミオート",
+        burst: "バースト",
+      };
       var table = new Tabulator("#example-table", {
         maxHeight: "100%",
         rowHeight: 30,
@@ -46,18 +51,16 @@
                   .getValue()
                   .split(",")
                   .forEach(function (val) {
-                    images.push(`<img src="/img/${val}.png" title="${val}"/>`);
+                    images.push(
+                      `<img src="/img/${val}.png" title="${shoot_type[val]}"/>`
+                    );
                   });
                 return images.join(" ");
               }
             },
             headerFilter: "list",
             headerFilterParams: {
-              values: {
-                full_auto: "フルオート",
-                semi_auto: "セミオート",
-                burst: "バースト",
-              },
+              values: shoot_type,
               clearable: true,
             },
             headerFilterFunc: "like",
