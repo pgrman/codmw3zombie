@@ -35,18 +35,32 @@
           {
             title: "射撃モード",
             field: "shoot_type",
-            formatter: function(cell, formatterParams, onRendered) {
+            formatter: function (cell, formatterParams, onRendered) {
               if (typeof cell.getValue() === "undefined") {
                 return;
-              }
-              else {
+              } else {
                 const images = [];
-                cell.getValue().split(",").forEach(function(val){
-                  images.push(`<img src="/img/${val}.png" title="${val}"/>`);
-                });
+                cell
+                  .getValue()
+                  .split(",")
+                  .forEach(function (val) {
+                    images.push(`<img src="/img/${val}.png" title="${val}"/>`);
+                  });
                 return images.join(" ");
               }
             },
+            headerFilter: "list",
+            headerFilterParams: {
+              values: {
+                full_auto: "フルオート",
+                semi_auto: "セミオート",
+                burst: "バースト",
+              },
+              clearable: true,
+            },
+            headerFilterFunc: "like",
+            headerFilterPlaceholder: "検索",
+            headerSort: false,
           },
           {
             title: "威力",
