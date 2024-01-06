@@ -2,6 +2,7 @@
   {
     "category": "アサルトライフル",
     "name": "SVA 545",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 40,
     "upper_torso_damage": 31,
     "lower_torso_damage": 31,
@@ -32,6 +33,7 @@
   {
     "category": "アサルトライフル",
     "name": "RAM-7",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 46,
     "upper_torso_damage": 36,
     "lower_torso_damage": 36,
@@ -62,6 +64,7 @@
   {
     "category": "アサルトライフル",
     "name": "MTZ-556",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 39,
     "upper_torso_damage": 36,
     "lower_torso_damage": 36,
@@ -92,6 +95,7 @@
   {
     "category": "アサルトライフル",
     "name": "HOLGER 556",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 54,
     "upper_torso_damage": 42,
     "lower_torso_damage": 42,
@@ -122,6 +126,7 @@
   {
     "category": "アサルトライフル",
     "name": "MCW",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 44,
     "upper_torso_damage": 37,
     "lower_torso_damage": 34,
@@ -152,6 +157,7 @@
   {
     "category": "アサルトライフル",
     "name": "DG-56",
+    "shoot_type": "burst,semi_auto",
     "headshot_damage": 56,
     "upper_torso_damage": 44,
     "lower_torso_damage": 44,
@@ -182,6 +188,7 @@
   {
     "category": "アサルトライフル",
     "name": "FR 5.56",
+    "shoot_type": "burst,semi_auto",
     "headshot_damage": 60,
     "upper_torso_damage": 43,
     "lower_torso_damage": 43,
@@ -212,6 +219,7 @@
   {
     "category": "バトルライフル",
     "name": "BAS-B",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 54,
     "upper_torso_damage": 46,
     "lower_torso_damage": 46,
@@ -242,6 +250,7 @@
   {
     "category": "バトルライフル",
     "name": "SIDEWINDER",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 84,
     "upper_torso_damage": 60,
     "lower_torso_damage": 60,
@@ -272,6 +281,7 @@
   {
     "category": "バトルライフル",
     "name": "MTZ-762",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 58,
     "upper_torso_damage": 49,
     "lower_torso_damage": 49,
@@ -302,6 +312,7 @@
   {
     "category": "サブマシンガン",
     "name": "STRIKER",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 46,
     "upper_torso_damage": 39,
     "lower_torso_damage": 36,
@@ -332,6 +343,7 @@
   {
     "category": "サブマシンガン",
     "name": "WSP SWARM",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 33,
     "upper_torso_damage": 30,
     "lower_torso_damage": 30,
@@ -362,6 +374,7 @@
   {
     "category": "サブマシンガン",
     "name": "AMR9",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 39,
     "upper_torso_damage": 36,
     "lower_torso_damage": 36,
@@ -392,6 +405,7 @@
   {
     "category": "サブマシンガン",
     "name": "WSP-9",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 54,
     "upper_torso_damage": 46,
     "lower_torso_damage": 42,
@@ -422,6 +436,7 @@
   {
     "category": "サブマシンガン",
     "name": "RIVAL-9",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 37,
     "upper_torso_damage": 31,
     "lower_torso_damage": 31,
@@ -452,6 +467,7 @@
   {
     "category": "サブマシンガン",
     "name": "STRIKER 9",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 35,
     "upper_torso_damage": 29,
     "lower_torso_damage": 29,
@@ -482,6 +498,7 @@
   {
     "category": "ショットガン",
     "name": "LOCKWOOD 680",
+    "shoot_type": "semi_auto",
     "headshot_damage": 83,
     "upper_torso_damage": 82,
     "lower_torso_damage": 81,
@@ -514,6 +531,7 @@
   {
     "category": "ショットガン",
     "name": "HAYMAKER",
+    "shoot_type": "semi_auto",
     "headshot_damage": 52,
     "upper_torso_damage": 52,
     "lower_torso_damage": 52,
@@ -546,6 +564,7 @@
   {
     "category": "ショットガン",
     "name": "RIVETER",
+    "shoot_type": "full_auto",
     "headshot_damage": 35,
     "upper_torso_damage": 28,
     "lower_torso_damage": 27,
@@ -578,6 +597,7 @@
   {
     "category": "ライトマシンガン",
     "name": "PULEMYOT 762",
+    "shoot_type": "full_auto",
     "headshot_damage": 54,
     "upper_torso_damage": 49,
     "lower_torso_damage": 45,
@@ -608,6 +628,7 @@
   {
     "category": "ライトマシンガン",
     "name": "DG-58 LSW",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 46,
     "upper_torso_damage": 33,
     "lower_torso_damage": 33,
@@ -638,6 +659,7 @@
   {
     "category": "ライトマシンガン",
     "name": "TAQ ERADICATOR",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 39,
     "upper_torso_damage": 36,
     "lower_torso_damage": 36,
@@ -669,6 +691,7 @@
   {
     "category": "ライトマシンガン",
     "name": "BLUEN MK9",
+    "shoot_type": "full_auto",
     "headshot_damage": 43,
     "upper_torso_damage": 35,
     "lower_torso_damage": 33,
@@ -700,6 +723,7 @@
   {
     "category": "ライトマシンガン",
     "name": "HOLGER 26",
+    "shoot_type": "full_auto,semi_auto",
     "headshot_damage": 40,
     "upper_torso_damage": 37,
     "lower_torso_damage": 37,
@@ -730,6 +754,7 @@
   {
     "category": "マークスマンライフル",
     "name": "KVD ENFORCER",
+    "shoot_type": "semi_auto",
     "headshot_damage": 154,
     "upper_torso_damage": 84,
     "lower_torso_damage": 70,
@@ -760,6 +785,7 @@
   {
     "category": "マークスマンライフル",
     "name": "MCW 6.8",
+    "shoot_type": "semi_auto",
     "headshot_damage": 121,
     "upper_torso_damage": 66,
     "lower_torso_damage": 55,
@@ -790,6 +816,7 @@
   {
     "category": "マークスマンライフル",
     "name": "DM56",
+    "shoot_type": "semi_auto",
     "headshot_damage": 75,
     "upper_torso_damage": 65,
     "lower_torso_damage": 50,
@@ -820,6 +847,7 @@
   {
     "category": "マークスマンライフル",
     "name": "MTZ INTERCEPTOR",
+    "shoot_type": "semi_auto",
     "headshot_damage": 190,
     "upper_torso_damage": 95,
     "lower_torso_damage": 95,
@@ -850,6 +878,7 @@
   {
     "category": "スナイパーライフル",
     "name": "XRK STALKER",
+    "shoot_type": "semi_auto",
     "headshot_damage": 238,
     "upper_torso_damage": 168,
     "lower_torso_damage": 154,
@@ -880,6 +909,7 @@
   {
     "category": "スナイパーライフル",
     "name": "KATT-AMR",
+    "shoot_type": "semi_auto",
     "headshot_damage": 360,
     "upper_torso_damage": 216,
     "lower_torso_damage": 207,
@@ -910,6 +940,7 @@
   {
     "category": "スナイパーライフル",
     "name": "LONGBOW",
+    "shoot_type": "semi_auto",
     "headshot_damage": 240,
     "upper_torso_damage": 180,
     "lower_torso_damage": 120,
@@ -940,6 +971,7 @@
   {
     "category": "スナイパーライフル",
     "name": "KV INHIBITOR",
+    "shoot_type": "semi_auto",
     "headshot_damage": 294,
     "upper_torso_damage": 210,
     "lower_torso_damage": 140,
@@ -969,6 +1001,7 @@
   {
     "category": "ハンドガン",
     "name": "COR-45",
+    "shoot_type": "semi_auto",
     "headshot_damage": 66,
     "upper_torso_damage": 66,
     "lower_torso_damage": 66,
@@ -998,6 +1031,7 @@
   {
     "category": "ハンドガン",
     "name": "RENETTI",
+    "shoot_type": "burst",
     "headshot_damage": 46,
     "upper_torso_damage": 36,
     "lower_torso_damage": 36,
@@ -1027,6 +1061,7 @@
   {
     "category": "ハンドガン",
     "name": "TYR",
+    "shoot_type": "semi_auto",
     "headshot_damage": 240,
     "upper_torso_damage": 156,
     "lower_torso_damage": 156,
@@ -1056,6 +1091,7 @@
   {
     "category": "ハンドガン",
     "name": "WSP STINGER",
+    "shoot_type": "full_auto",
     "headshot_damage": 26,
     "upper_torso_damage": 24,
     "lower_torso_damage": 24,
