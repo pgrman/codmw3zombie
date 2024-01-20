@@ -58,6 +58,8 @@
             formatter: function (cell, formatterParams, onRendered) {
               if (typeof cell.getValue() === "undefined") {
                 return;
+              } else if (cell.getValue() === "TBC") {
+                return "確認中";
               } else {
                 const images = [];
                 cell
