@@ -406,6 +406,43 @@
   swap_speed: 1200.0
 
 - category: サブマシンガン
+  name: HRM-9
+  shoot_type: full_auto,semi_auto
+  # damage:
+  headshot_damage: 35.0
+  upper_torso_damage: 32.0
+  lower_torso_damage: 31.0
+  upper_legs_damage: 31.0
+  target_flinch: 0.8
+  # range:
+  effective_damage_range: 16.5
+  minimum_damage_range: 30.5
+  bullet_velocity: 480.0
+  # fire_rate:
+  rate_of_fire: 882.4
+  # recoil_control:
+  recoil_gun_kick: 47.40
+  horizontal_recoil: 8.30
+  vertical_recoil: 42.75
+  # accuracy:
+  hipfire_spread_min: 2.0
+  hipfire_spread_max: 5.6
+  flinch_resistance: 0.15
+  tactical_stance_spread: 2.7
+  # mobility:
+  movement_speed: 5.1
+  crouch_movement_speed: 1.9
+  sprint_speed: 5.7
+  tactical_sprint_speed: 7.1
+  ads_movement_speed: 3.3
+  # handling:
+  ads_speed: 208.0
+  reload_quickness: 2.8
+  empty_reload_quickness: 3.2
+  sprint_to_fire_speed: 94.0
+  swap_speed: 1400.0
+
+- category: サブマシンガン
   name: WSP SWARM
   shoot_type: full_auto,semi_auto
   # damage:
@@ -708,6 +745,44 @@
   swap_speed: 1500.0
 
 - category: ライトマシンガン
+  name: TAQ EVOLVERE
+  shoot_type: full_auto,semi_auto
+  # damage:
+  headshot_damage: 40.0
+  upper_torso_damage: 34.0
+  lower_torso_damage: 34.0
+  upper_legs_damage: 34.0
+  target_flinch: 0.5
+  # range:
+  effective_damage_range: 35.6
+  minimum_damage_range: 40.6
+  bullet_velocity: 805.0
+  # fire_rate:
+  rate_of_fire: 705.5
+  open_bolt_delay: 30.0
+  # recoil_control:
+  recoil_gun_kick: 19.27
+  horizontal_recoil: 13.72
+  vertical_recoil: 47.74
+  # accuracy:
+  hipfire_spread_min: 3.5
+  hipfire_spread_max: 8.2
+  flinch_resistance: 0.15
+  tactical_stance_spread: 3.9
+  # mobility:
+  movement_speed: 4.4
+  crouch_movement_speed: 2.0
+  sprint_speed: 5.3
+  tactical_sprint_speed: 6.6
+  ads_movement_speed: 2.3
+  # handling:
+  ads_speed: 385.0
+  reload_quickness: 6.8
+  empty_reload_quickness: 8.3
+  sprint_to_fire_speed: 245.0
+  swap_speed: 1900.0
+
+- category: ライトマシンガン
   name: PULEMYOT 762
   shoot_type: full_auto
   # damage:
@@ -716,7 +791,7 @@
   lower_torso_damage: 45.0
   upper_legs_damage: 45.0
   target_flinch: 0.8
-  # range8
+  # range:
   effective_damage_range: 38.1
   minimum_damage_range: 45.7
   bullet_velocity: 810.0
@@ -753,7 +828,7 @@
   lower_torso_damage: 33.0
   upper_legs_damage: 33.0
   target_flinch: 0.8
-  # range8
+  # range:
   effective_damage_range: 34.3
   minimum_damage_range: 34.3
   bullet_velocity: 880.0
@@ -866,7 +941,7 @@
   lower_torso_damage: 37.0
   upper_legs_damage: 34.0
   target_flinch: 0.8
-  # range8
+  # range:
   effective_damage_range: 31.8
   minimum_damage_range: 45.7
   bullet_velocity: 790.0
