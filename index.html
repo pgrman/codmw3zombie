@@ -25,6 +25,19 @@
         layout: "fitData",
         columns: [
           {
+            title: "タイトル",
+            field: "title",
+            formatter: "image",
+            formatterParams: {
+              urlPrefix: "./img/",
+              urlSuffix: ".png",
+            },
+            headerFilter: "list",
+            headerFilterParams: { valuesLookup: true, clearable: true },
+            headerFilterPlaceholder: "検索",
+            frozen: true,
+          },
+          {
             title: "カテゴリ",
             field: "category",
             headerFilter: "list",

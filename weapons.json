@@ -1,5 +1,6 @@
 [
   {
+    "title": "MW3",
     "category": "アサルトライフル",
     "name": "SVA 545",
     "shoot_type": "full_auto,semi_auto",
@@ -31,6 +32,7 @@
     "swap_speed": 1510
   },
   {
+    "title": "MW3",
     "category": "アサルトライフル",
     "name": "RAM-7",
     "shoot_type": "full_auto,semi_auto",
@@ -62,6 +64,7 @@
     "swap_speed": 1500
   },
   {
+    "title": "MW3",
     "category": "アサルトライフル",
     "name": "MTZ-556",
     "shoot_type": "full_auto,semi_auto",
@@ -93,6 +96,7 @@
     "swap_speed": 1530
   },
   {
+    "title": "MW3",
     "category": "アサルトライフル",
     "name": "HOLGER 556",
     "shoot_type": "full_auto,semi_auto",
@@ -124,6 +128,7 @@
     "swap_speed": 1433
   },
   {
+    "title": "MW3",
     "category": "アサルトライフル",
     "name": "MCW",
     "shoot_type": "full_auto,semi_auto",
@@ -155,6 +160,7 @@
     "swap_speed": 1500
   },
   {
+    "title": "MW3",
     "category": "アサルトライフル",
     "name": "DG-56",
     "shoot_type": "burst,semi_auto",
@@ -186,6 +192,7 @@
     "swap_speed": 1530
   },
   {
+    "title": "MW3",
     "category": "アサルトライフル",
     "name": "FR 5.56",
     "shoot_type": "burst,semi_auto",
@@ -217,6 +224,7 @@
     "swap_speed": 1533
   },
   {
+    "title": "MW3",
     "category": "バトルライフル",
     "name": "BAS-B",
     "shoot_type": "full_auto,semi_auto",
@@ -248,6 +256,7 @@
     "swap_speed": 1530
   },
   {
+    "title": "MW3",
     "category": "バトルライフル",
     "name": "SIDEWINDER",
     "shoot_type": "full_auto,semi_auto",
@@ -279,6 +288,7 @@
     "swap_speed": 1500
   },
   {
+    "title": "MW3",
     "category": "バトルライフル",
     "name": "MTZ-762",
     "shoot_type": "full_auto,semi_auto",
@@ -310,6 +320,7 @@
     "swap_speed": 1530
   },
   {
+    "title": "MW3",
     "category": "サブマシンガン",
     "name": "STRIKER",
     "shoot_type": "full_auto,semi_auto",
@@ -341,6 +352,7 @@
     "swap_speed": 1200
   },
   {
+    "title": "MW3",
     "category": "サブマシンガン",
     "name": "HRM-9",
     "shoot_type": "full_auto,semi_auto",
@@ -372,6 +384,7 @@
     "swap_speed": 1400
   },
   {
+    "title": "MW3",
     "category": "サブマシンガン",
     "name": "WSP SWARM",
     "shoot_type": "full_auto,semi_auto",
@@ -403,6 +416,7 @@
     "swap_speed": 1140
   },
   {
+    "title": "MW3",
     "category": "サブマシンガン",
     "name": "AMR9",
     "shoot_type": "full_auto,semi_auto",
@@ -434,6 +448,7 @@
     "swap_speed": 1360
   },
   {
+    "title": "MW3",
     "category": "サブマシンガン",
     "name": "WSP-9",
     "shoot_type": "full_auto,semi_auto",
@@ -465,6 +480,7 @@
     "swap_speed": 1233
   },
   {
+    "title": "MW3",
     "category": "サブマシンガン",
     "name": "RIVAL-9",
     "shoot_type": "full_auto,semi_auto",
@@ -496,6 +512,7 @@
     "swap_speed": 1360
   },
   {
+    "title": "MW3",
     "category": "サブマシンガン",
     "name": "STRIKER 9",
     "shoot_type": "full_auto,semi_auto",
@@ -527,6 +544,7 @@
     "swap_speed": 1200
   },
   {
+    "title": "MW3",
     "category": "ショットガン",
     "name": "LOCKWOOD 680",
     "shoot_type": "semi_auto",
@@ -560,6 +578,7 @@
     "swap_speed": 1300
   },
   {
+    "title": "MW3",
     "category": "ショットガン",
     "name": "HAYMAKER",
     "shoot_type": "semi_auto",
@@ -593,6 +612,7 @@
     "swap_speed": 1300
   },
   {
+    "title": "MW3",
     "category": "ショットガン",
     "name": "RIVETER",
     "shoot_type": "full_auto",
@@ -626,6 +646,7 @@
     "swap_speed": 1500
   },
   {
+    "title": "MW3",
     "category": "ライトマシンガン",
     "name": "TAQ EVOLVERE",
     "shoot_type": "full_auto,semi_auto",
@@ -658,6 +679,7 @@
     "swap_speed": 1900
   },
   {
+    "title": "MW3",
     "category": "ライトマシンガン",
     "name": "PULEMYOT 762",
     "shoot_type": "full_auto",
@@ -689,6 +711,7 @@
     "swap_speed": 1600
   },
   {
+    "title": "MW3",
     "category": "ライトマシンガン",
     "name": "DG-58 LSW",
     "shoot_type": "full_auto,semi_auto",
@@ -720,6 +743,7 @@
     "swap_speed": 1633
   },
   {
+    "title": "MW3",
     "category": "ライトマシンガン",
     "name": "TAQ ERADICATOR",
     "shoot_type": "full_auto,semi_auto",
@@ -752,6 +776,7 @@
     "swap_speed": 1600
   },
   {
+    "title": "MW3",
     "category": "ライトマシンガン",
     "name": "BLUEN MK9",
     "shoot_type": "full_auto",
@@ -784,6 +809,7 @@
     "swap_speed": 2517
   },
   {
+    "title": "MW3",
     "category": "ライトマシンガン",
     "name": "HOLGER 26",
     "shoot_type": "full_auto,semi_auto",
@@ -815,6 +841,7 @@
     "swap_speed": 1830
   },
   {
+    "title": "MW3",
     "category": "マークスマンライフル",
     "name": "KVD ENFORCER",
     "shoot_type": "semi_auto",
@@ -846,6 +873,7 @@
     "swap_speed": 1499
   },
   {
+    "title": "MW3",
     "category": "マークスマンライフル",
     "name": "MCW 6.8",
     "shoot_type": "semi_auto",
@@ -877,6 +905,7 @@
     "swap_speed": 1500
   },
   {
+    "title": "MW3",
     "category": "マークスマンライフル",
     "name": "DM56",
     "shoot_type": "semi_auto",
@@ -908,6 +937,7 @@
     "swap_speed": 1433
   },
   {
+    "title": "MW3",
     "category": "マークスマンライフル",
     "name": "MTZ INTERCEPTOR",
     "shoot_type": "semi_auto",
@@ -939,6 +969,7 @@
     "swap_speed": 1530
   },
   {
+    "title": "MW3",
     "category": "スナイパーライフル",
     "name": "XRK STALKER",
     "shoot_type": "semi_auto",
@@ -970,6 +1001,7 @@
     "swap_speed": 2333
   },
   {
+    "title": "MW3",
     "category": "スナイパーライフル",
     "name": "KATT-AMR",
     "shoot_type": "semi_auto",
@@ -1001,6 +1033,7 @@
     "swap_speed": 2333
   },
   {
+    "title": "MW3",
     "category": "スナイパーライフル",
     "name": "LONGBOW",
     "shoot_type": "semi_auto",
@@ -1032,6 +1065,7 @@
     "swap_speed": 1460
   },
   {
+    "title": "MW3",
     "category": "スナイパーライフル",
     "name": "KV INHIBITOR",
     "shoot_type": "semi_auto",
@@ -1062,6 +1096,7 @@
     "swap_speed": 1499
   },
   {
+    "title": "MW3",
     "category": "ハンドガン",
     "name": "COR-45",
     "shoot_type": "semi_auto",
@@ -1092,6 +1127,7 @@
     "swap_speed": 1100
   },
   {
+    "title": "MW3",
     "category": "ハンドガン",
     "name": "RENETTI",
     "shoot_type": "burst",
@@ -1122,6 +1158,7 @@
     "swap_speed": 1100
   },
   {
+    "title": "MW3",
     "category": "ハンドガン",
     "name": "TYR",
     "shoot_type": "semi_auto",
@@ -1152,6 +1189,7 @@
     "swap_speed": 1100
   },
   {
+    "title": "MW3",
     "category": "ハンドガン",
     "name": "WSP STINGER",
     "shoot_type": "full_auto",

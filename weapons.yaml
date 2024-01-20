@@ -1,4 +1,5 @@
-- category: アサルトライフル
+- title: MW3
+  category: アサルトライフル
   name: SVA 545
   shoot_type: full_auto,semi_auto
   # damage:
@@ -35,7 +36,8 @@
   sprint_to_fire_speed: 210.0
   swap_speed: 1510.0
 
-- category: アサルトライフル
+- title: MW3
+  category: アサルトライフル
   name: RAM-7
   shoot_type: full_auto,semi_auto
   # damage:
@@ -72,7 +74,8 @@
   sprint_to_fire_speed: 189.0
   swap_speed: 1500.0
 
-- category: アサルトライフル
+- title: MW3
+  category: アサルトライフル
   name: MTZ-556
   shoot_type: full_auto,semi_auto
   # damage:
@@ -109,7 +112,8 @@
   sprint_to_fire_speed: 189.0
   swap_speed: 1530.0
 
-- category: アサルトライフル
+- title: MW3
+  category: アサルトライフル
   name: HOLGER 556
   shoot_type: full_auto,semi_auto
   # damage:
@@ -146,7 +150,8 @@
   sprint_to_fire_speed: 231.0
   swap_speed: 1433.0
 
-- category: アサルトライフル
+- title: MW3
+  category: アサルトライフル
   name: MCW
   shoot_type: full_auto,semi_auto
   # damage:
@@ -183,7 +188,8 @@
   sprint_to_fire_speed: 220.0
   swap_speed: 1500.0
 
-- category: アサルトライフル
+- title: MW3
+  category: アサルトライフル
   name: DG-56
   shoot_type: burst,semi_auto
   # damage:
@@ -220,7 +226,8 @@
   sprint_to_fire_speed: 178.0
   swap_speed: 1530.0
 
-- category: アサルトライフル
+- title: MW3
+  category: アサルトライフル
   name: FR 5.56
   shoot_type: burst,semi_auto
   # damage:
@@ -257,7 +264,8 @@
   sprint_to_fire_speed: 231.0
   swap_speed: 1533.0
 
-- category: バトルライフル
+- title: MW3
+  category: バトルライフル
   name: BAS-B
   shoot_type: full_auto,semi_auto
   # damage:
@@ -294,7 +302,8 @@
   sprint_to_fire_speed: 231.0
   swap_speed: 1530.0
 
-- category: バトルライフル
+- title: MW3
+  category: バトルライフル
   name: SIDEWINDER
   shoot_type: full_auto,semi_auto
   # damage:
@@ -331,7 +340,8 @@
   sprint_to_fire_speed: 231.0
   swap_speed: 1500.0
 
-- category: バトルライフル
+- title: MW3
+  category: バトルライフル
   name: MTZ-762
   shoot_type: full_auto,semi_auto
   # damage:
@@ -368,7 +378,8 @@
   sprint_to_fire_speed: 231.0
   swap_speed: 1530.0
 
-- category: サブマシンガン
+- title: MW3
+  category: サブマシンガン
   name: STRIKER
   shoot_type: full_auto,semi_auto
   # damage:
@@ -405,7 +416,8 @@
   sprint_to_fire_speed: 100.0
   swap_speed: 1200.0
 
-- category: サブマシンガン
+- title: MW3
+  category: サブマシンガン
   name: HRM-9
   shoot_type: full_auto,semi_auto
   # damage:
@@ -442,7 +454,8 @@
   sprint_to_fire_speed: 94.0
   swap_speed: 1400.0
 
-- category: サブマシンガン
+- title: MW3
+  category: サブマシンガン
   name: WSP SWARM
   shoot_type: full_auto,semi_auto
   # damage:
@@ -479,7 +492,8 @@
   sprint_to_fire_speed: 88.0
   swap_speed: 1140.0
 
-- category: サブマシンガン
+- title: MW3
+  category: サブマシンガン
   name: AMR9
   shoot_type: full_auto,semi_auto
   # damage:
@@ -516,7 +530,8 @@
   sprint_to_fire_speed: 189.0
   swap_speed: 1360.0
 
-- category: サブマシンガン
+- title: MW3
+  category: サブマシンガン
   name: WSP-9
   shoot_type: full_auto,semi_auto
   # damage:
@@ -553,7 +568,8 @@
   sprint_to_fire_speed: 88.0
   swap_speed: 1233.0
 
-- category: サブマシンガン
+- title: MW3
+  category: サブマシンガン
   name: RIVAL-9
   shoot_type: full_auto,semi_auto
   # damage:
@@ -590,7 +606,8 @@
   sprint_to_fire_speed: 93.0
   swap_speed: 1360.0
 
-- category: サブマシンガン
+- title: MW3
+  category: サブマシンガン
   name: STRIKER 9
   shoot_type: full_auto,semi_auto
   # damage:
@@ -627,7 +644,8 @@
   sprint_to_fire_speed: 100.0
   swap_speed: 1200.0
 
-- category: ショットガン
+- title: MW3
+  category: ショットガン
   name: LOCKWOOD 680
   shoot_type: semi_auto
   # damage:
@@ -666,7 +684,8 @@
   sprint_to_fire_speed: 184.0
   swap_speed: 1300.0
 
-- category: ショットガン
+- title: MW3
+  category: ショットガン
   name: HAYMAKER
   shoot_type: semi_auto
   # damage:
@@ -705,7 +724,8 @@
   sprint_to_fire_speed: 262.0
   swap_speed: 1300.0
 
-- category: ショットガン
+- title: MW3
+  category: ショットガン
   name: RIVETER
   shoot_type: full_auto
   # damage:
@@ -744,7 +764,8 @@
   sprint_to_fire_speed: 210.0
   swap_speed: 1500.0
 
-- category: ライトマシンガン
+- title: MW3
+  category: ライトマシンガン
   name: TAQ EVOLVERE
   shoot_type: full_auto,semi_auto
   # damage:
@@ -782,7 +803,8 @@
   sprint_to_fire_speed: 245.0
   swap_speed: 1900.0
 
-- category: ライトマシンガン
+- title: MW3
+  category: ライトマシンガン
   name: PULEMYOT 762
   shoot_type: full_auto
   # damage:
@@ -819,7 +841,8 @@
   sprint_to_fire_speed: 285.0
   swap_speed: 1600.0
 
-- category: ライトマシンガン
+- title: MW3
+  category: ライトマシンガン
   name: DG-58 LSW
   shoot_type: full_auto,semi_auto
   # damage:
@@ -856,7 +879,8 @@
   sprint_to_fire_speed: 294.0
   swap_speed: 1633.0
 
-- category: ライトマシンガン
+- title: MW3
+  category: ライトマシンガン
   name: TAQ ERADICATOR
   shoot_type: full_auto,semi_auto
   # damage:
@@ -894,7 +918,8 @@
   sprint_to_fire_speed: 210.0
   swap_speed: 1600.0
 
-- category: ライトマシンガン
+- title: MW3
+  category: ライトマシンガン
   name: BLUEN MK9
   shoot_type: full_auto
   # damage:
@@ -932,7 +957,8 @@
   sprint_to_fire_speed: 250.0
   swap_speed: 2517.0
 
-- category: ライトマシンガン
+- title: MW3
+  category: ライトマシンガン
   name: HOLGER 26
   shoot_type: full_auto,semi_auto
   # damage:
@@ -969,7 +995,8 @@
   sprint_to_fire_speed: 210.0
   swap_speed: 1830.0
 
-- category: マークスマンライフル
+- title: MW3
+  category: マークスマンライフル
   name: KVD ENFORCER
   shoot_type: semi_auto
   # damage:
@@ -1006,7 +1033,8 @@
   sprint_to_fire_speed: 294.0
   swap_speed: 1499.0
 
-- category: マークスマンライフル
+- title: MW3
+  category: マークスマンライフル
   name: MCW 6.8
   shoot_type: semi_auto
   # damage:
@@ -1043,7 +1071,8 @@
   sprint_to_fire_speed: 217.0
   swap_speed: 1500.0
 
-- category: マークスマンライフル
+- title: MW3
+  category: マークスマンライフル
   name: DM56
   shoot_type: semi_auto
   # damage:
@@ -1080,7 +1109,8 @@
   sprint_to_fire_speed: 168.0
   swap_speed: 1433.0
 
-- category: マークスマンライフル
+- title: MW3
+  category: マークスマンライフル
   name: MTZ INTERCEPTOR
   shoot_type: semi_auto
   # damage:
@@ -1117,7 +1147,8 @@
   sprint_to_fire_speed: 252.0
   swap_speed: 1530.0
 
-- category: スナイパーライフル
+- title: MW3
+  category: スナイパーライフル
   name: XRK STALKER
   shoot_type: semi_auto
   # damage:
@@ -1154,7 +1185,8 @@
   sprint_to_fire_speed: 283.0
   swap_speed: 2333.0
 
-- category: スナイパーライフル
+- title: MW3
+  category: スナイパーライフル
   name: KATT-AMR
   shoot_type: semi_auto
   # damage:
@@ -1191,7 +1223,8 @@
   sprint_to_fire_speed: 351.0
   swap_speed: 2333.0
 
-- category: スナイパーライフル
+- title: MW3
+  category: スナイパーライフル
   name: LONGBOW
   shoot_type: semi_auto
   # damage:
@@ -1228,7 +1261,8 @@
   sprint_to_fire_speed: 200.0
   swap_speed: 1460.0
 
-- category: スナイパーライフル
+- title: MW3
+  category: スナイパーライフル
   name: KV INHIBITOR
   shoot_type: semi_auto
   # damage:
@@ -1264,7 +1298,8 @@
   sprint_to_fire_speed: 273.0
   swap_speed: 1499.0
 
-- category: ハンドガン
+- title: MW3
+  category: ハンドガン
   name: COR-45
   shoot_type: semi_auto
   # damage:
@@ -1300,7 +1335,8 @@
   sprint_to_fire_speed: 88.0
   swap_speed: 1100.0
 
-- category: ハンドガン
+- title: MW3
+  category: ハンドガン
   name: RENETTI
   shoot_type: burst
   # damage:
@@ -1336,7 +1372,8 @@
   sprint_to_fire_speed: 40.0
   swap_speed: 1100.0
 
-- category: ハンドガン
+- title: MW3
+  category: ハンドガン
   name: TYR
   shoot_type: semi_auto
   # damage:
@@ -1372,7 +1409,8 @@
   sprint_to_fire_speed: 48.0
   swap_speed: 1100.0
 
-- category: ハンドガン
+- title: MW3
+  category: ハンドガン
   name: WSP STINGER
   shoot_type: full_auto
   # damage:
