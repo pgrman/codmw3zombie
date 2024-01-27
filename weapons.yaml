@@ -2337,45 +2337,6 @@
 
 - title: MW3
   category: ライトマシンガン
-  name: TAQ ERADICATOR
-  shoot_type: full_auto,semi_auto
-  # damage:
-  headshot_damage: 39.0
-  upper_torso_damage: 36.0
-  lower_torso_damage: 36.0
-  upper_legs_damage: 33.0
-  target_flinch: 0.8
-  # range:
-  effective_damage_range: 33.0
-  minimum_damage_range: 58.9
-  bullet_velocity: 840.0
-  # fire_rate:
-  rate_of_fire: 857.1
-  open_bolt_delay: 0.0
-  # recoil_control:
-  recoil_gun_kick: 35.53
-  horizontal_recoil: 8.49
-  vertical_recoil: 43.62
-  # accuracy:
-  hipfire_spread_min: 3.0
-  hipfire_spread_max: 7.2
-  flinch_resistance: 0.15
-  tactical_stance_spread: 3.2
-  # mobility:
-  movement_speed: 4.2
-  crouch_movement_speed: 2.0
-  sprint_speed: 5.1
-  tactical_sprint_speed: 6.3
-  ads_movement_speed: 2.2
-  # handling:
-  ads_speed: 330.0
-  reload_quickness: 3.5
-  empty_reload_quickness: 4.1
-  sprint_to_fire_speed: 210.0
-  swap_speed: 1600.0
-
-- title: MW3
-  category: ライトマシンガン
   name: BLUEN MK9
   shoot_type: full_auto
   # damage:
@@ -2412,6 +2373,45 @@
   empty_reload_quickness: 8.4
   sprint_to_fire_speed: 250.0
   swap_speed: 2517.0
+
+- title: MW3
+  category: ライトマシンガン
+  name: TAQ ERADICATOR
+  shoot_type: full_auto,semi_auto
+  # damage:
+  headshot_damage: 39.0
+  upper_torso_damage: 36.0
+  lower_torso_damage: 36.0
+  upper_legs_damage: 33.0
+  target_flinch: 0.8
+  # range:
+  effective_damage_range: 33.0
+  minimum_damage_range: 58.9
+  bullet_velocity: 840.0
+  # fire_rate:
+  rate_of_fire: 857.1
+  open_bolt_delay: 0.0
+  # recoil_control:
+  recoil_gun_kick: 35.53
+  horizontal_recoil: 8.49
+  vertical_recoil: 43.62
+  # accuracy:
+  hipfire_spread_min: 3.0
+  hipfire_spread_max: 7.2
+  flinch_resistance: 0.15
+  tactical_stance_spread: 3.2
+  # mobility:
+  movement_speed: 4.2
+  crouch_movement_speed: 2.0
+  sprint_speed: 5.1
+  tactical_sprint_speed: 6.3
+  ads_movement_speed: 2.2
+  # handling:
+  ads_speed: 330.0
+  reload_quickness: 3.5
+  empty_reload_quickness: 4.1
+  sprint_to_fire_speed: 210.0
+  swap_speed: 1600.0
 
 - title: MW3
   category: ライトマシンガン
