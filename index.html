@@ -1,7 +1,6 @@
 <html>
-  <body>
-    <div id="table"></div>
-
+  <head>
+    <link href="./css/style.css" rel="stylesheet" />
     <link
       href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css"
       rel="stylesheet"
@@ -10,6 +9,16 @@
       type="text/javascript"
       src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"
     ></script>
+  </head>
+
+  <body>
+    <h1>Call of Duty: Modern Warfare III ゾンビモード武器一覧</h1>
+    <ul class="note">
+      <li>表記の性能はアタッチメントなしの状態</li>
+      <li>マルチプレイヤーと性能差はないらしい（S1アプデから？）</li>
+      <li>2024-01-23 アップデート分まで反映</li>
+    </ul>
+    <div id="table"></div>
 
     <script>
       const shoot_type = {
@@ -18,7 +27,7 @@
         burst: "バースト",
       };
       const table = new Tabulator("#table", {
-        maxHeight: "100%",
+        maxHeight: "85%",
         rowHeight: 30,
         placeholder: "No Data Set",
         ajaxURL: "weapons.json",
