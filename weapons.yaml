@@ -3,10 +3,10 @@
   name: SVA 545
   shoot_type: full_auto,semi_auto
   # damage:
-  headshot_damage: 40.0
-  upper_torso_damage: 31.0
-  lower_torso_damage: 31.0
-  upper_legs_damage: 29.0
+  headshot_damage: 42.0
+  upper_torso_damage: 33.0
+  lower_torso_damage: 33.0
+  upper_legs_damage: 30.0
   target_flinch: 0.8
   # range:
   effective_damage_range: 31.8
@@ -15,9 +15,9 @@
   # fire_rate:
   rate_of_fire: 681.8
   # recoil_control:
-  recoil_gun_kick: 20.00
-  horizontal_recoil: 20.04
-  vertical_recoil: 66.67
+  recoil_gun_kick: 16.15
+  horizontal_recoil: 6.77
+  vertical_recoil: 45.45
   # accuracy:
   hipfire_spread_min: 2.6
   hipfire_spread_max: 7.3
@@ -53,9 +53,9 @@
   # fire_rate:
   rate_of_fire: 750.0
   # recoil_control:
-  recoil_gun_kick: 21.00
-  horizontal_recoil: 26.29
-  vertical_recoil: 59.63
+  recoil_gun_kick: 24.33
+  horizontal_recoil: 17.31
+  vertical_recoil: 42.56
   # accuracy:
   hipfire_spread_min: 2.6
   hipfire_spread_max: 7.7
@@ -91,9 +91,9 @@
   # fire_rate:
   rate_of_fire: 810.8
   # recoil_control:
-  recoil_gun_kick: 20.00
-  horizontal_recoil: 23.00
-  vertical_recoil: 54.40
+  recoil_gun_kick: 21.52
+  horizontal_recoil: 10.18
+  vertical_recoil: 36.71
   # accuracy:
   hipfire_spread_min: 2.6
   hipfire_spread_max: 7.0
@@ -129,9 +129,9 @@
   # fire_rate:
   rate_of_fire: 588.2
   # recoil_control:
-  recoil_gun_kick: 23.00
-  horizontal_recoil: 21.82
-  vertical_recoil: 65.11
+  recoil_gun_kick: 24.58
+  horizontal_recoil: 18.26
+  vertical_recoil: 46.28
   # accuracy:
   hipfire_spread_min: 2.6
   hipfire_spread_max: 7.5
@@ -147,7 +147,7 @@
   ads_speed: 260.0
   reload_quickness: 2.8
   empty_reload_quickness: 3.4
-  sprint_to_fire_speed: 231.0
+  sprint_to_fire_speed: 252.0
   swap_speed: 1433.0
 
 - title: MW3
@@ -167,9 +167,9 @@
   # fire_rate:
   rate_of_fire: 714.3
   # recoil_control:
-  recoil_gun_kick: 18.00
-  horizontal_recoil: 8.03
-  vertical_recoil: 60.19
+  recoil_gun_kick: 18.30
+  horizontal_recoil: 5.82
+  vertical_recoil: 44.54
   # accuracy:
   hipfire_spread_min: 2.6
   hipfire_spread_max: 8.0
@@ -185,7 +185,7 @@
   ads_speed: 240.0
   reload_quickness: 2.8
   empty_reload_quickness: 3.1
-  sprint_to_fire_speed: 220.0
+  sprint_to_fire_speed: 241.0
   swap_speed: 1500.0
 
 - title: MW3
@@ -195,19 +195,19 @@
   # damage:
   headshot_damage: 56.0
   upper_torso_damage: 44.0
-  lower_torso_damage: 44.0
+  lower_torso_damage: 40.0
   upper_legs_damage: 40.0
   target_flinch: 0.7
   # range:
-  effective_damage_range: 35.6
-  minimum_damage_range: 44.4
+  effective_damage_range: 20.3
+  minimum_damage_range: 30.5
   bullet_velocity: 720.0
   # fire_rate:
-  rate_of_fire: 196.1
+  rate_of_fire: 588.2
   # recoil_control:
-  recoil_gun_kick: 20.00
-  horizontal_recoil: 10.20
-  vertical_recoil: 54.82
+  recoil_gun_kick: 19.50
+  horizontal_recoil: 8.57
+  vertical_recoil: 33.26
   # accuracy:
   hipfire_spread_min: 2.4
   hipfire_spread_max: 6.2
@@ -241,11 +241,11 @@
   minimum_damage_range: 48.3
   bullet_velocity: 680.0
   # fire_rate:
-  rate_of_fire: 184.6
+  rate_of_fire: 553.8
   # recoil_control:
-  recoil_gun_kick: 18.00
-  horizontal_recoil: 3.64
-  vertical_recoil: 55.85
+  recoil_gun_kick: 19.80
+  horizontal_recoil: 6.58
+  vertical_recoil: 38.02
   # accuracy:
   hipfire_spread_min: 2.6
   hipfire_spread_max: 7.3
@@ -851,9 +851,9 @@
   # fire_rate:
   rate_of_fire: 666.7
   # recoil_control:
-  recoil_gun_kick: 21.00
-  horizontal_recoil: 22.89
-  vertical_recoil: 70.77
+  recoil_gun_kick: 21.75
+  horizontal_recoil: 14.65
+  vertical_recoil: 51.25
   # accuracy:
   hipfire_spread_min: 2.3
   hipfire_spread_max: 8.5
@@ -889,9 +889,9 @@
   # fire_rate:
   rate_of_fire: 375.0
   # recoil_control:
-  recoil_gun_kick: 32.90
-  horizontal_recoil: 12.32
-  vertical_recoil: 97.03
+  recoil_gun_kick: 36.47
+  horizontal_recoil: 13.37
+  vertical_recoil: 57.19
   # accuracy:
   hipfire_spread_min: 2.3
   hipfire_spread_max: 8.8
@@ -927,9 +927,9 @@
   # fire_rate:
   rate_of_fire: 540.5
   # recoil_control:
-  recoil_gun_kick: 20.00
-  horizontal_recoil: 23.26
-  vertical_recoil: 68.02
+  recoil_gun_kick: 21.38
+  horizontal_recoil: 17.68
+  vertical_recoil: 50.22
   # accuracy:
   hipfire_spread_min: 2.3
   hipfire_spread_max: 8.5
@@ -1127,7 +1127,7 @@
   tactical_stance_spread: 3.8
   # mobility:
   movement_speed: 4.6
-  crouch_movement_speed: 2.2
+  crouch_movement_speed: 2.1
   sprint_speed: 5.8
   tactical_sprint_speed: 7.0
   ads_movement_speed: 1.8
@@ -1155,9 +1155,9 @@
   # fire_rate:
   rate_of_fire: 645.2
   # recoil_control:
-  recoil_gun_kick: 17.95
-  horizontal_recoil: 11.38
-  vertical_recoil: 58.84
+  recoil_gun_kick: 16.61
+  horizontal_recoil: 10.17
+  vertical_recoil: 40.65
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 5.9
@@ -1225,15 +1225,15 @@
   upper_legs_damage: 27.0
   target_flinch: 0.7
   # range:
-  effective_damage_range: 4.6
+  effective_damage_range: 6.9
   minimum_damage_range: 34.3
   bullet_velocity: 450.0
   # fire_rate:
   rate_of_fire: 1090.9
   # recoil_control:
-  recoil_gun_kick: 38.36
-  horizontal_recoil: 22.64
-  vertical_recoil: 84.09
+  recoil_gun_kick: 40.02
+  horizontal_recoil: 14.85
+  vertical_recoil: 45.65
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 5.7
@@ -1257,21 +1257,21 @@
   name: AMR9
   shoot_type: full_auto,semi_auto
   # damage:
-  headshot_damage: 39.0
+  headshot_damage: 42.0
   upper_torso_damage: 36.0
-  lower_torso_damage: 36.0
-  upper_legs_damage: 29.0
+  lower_torso_damage: 33.0
+  upper_legs_damage: 33.0
   target_flinch: 0.7
   # range:
-  effective_damage_range: 16.5
-  minimum_damage_range: 38.1
+  effective_damage_range: 14.0
+  minimum_damage_range: 35.6
   bullet_velocity: 625.0
   # fire_rate:
-  rate_of_fire: 789.5
+  rate_of_fire: 833.3
   # recoil_control:
-  recoil_gun_kick: 48.18
-  horizontal_recoil: 16.80
-  vertical_recoil: 80.40
+  recoil_gun_kick: 48.75
+  horizontal_recoil: 6.72
+  vertical_recoil: 37.00
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 6.1
@@ -1307,9 +1307,9 @@
   # fire_rate:
   rate_of_fire: 599.5
   # recoil_control:
-  recoil_gun_kick: 49.70
-  horizontal_recoil: 20.84
-  vertical_recoil: 86.73
+  recoil_gun_kick: 54.93
+  horizontal_recoil: 14.40
+  vertical_recoil: 42.13
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 6.2
@@ -1345,9 +1345,9 @@
   # fire_rate:
   rate_of_fire: 909.1
   # recoil_control:
-  recoil_gun_kick: 40.72
-  horizontal_recoil: 31.86
-  vertical_recoil: 75.15
+  recoil_gun_kick: 40.19
+  horizontal_recoil: 15.55
+  vertical_recoil: 37.78
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 5.9
@@ -1371,10 +1371,10 @@
   name: STRIKER 9
   shoot_type: full_auto,semi_auto
   # damage:
-  headshot_damage: 35.0
-  upper_torso_damage: 29.0
-  lower_torso_damage: 29.0
-  upper_legs_damage: 27.0
+  headshot_damage: 37.0
+  upper_torso_damage: 31.0
+  lower_torso_damage: 31.0
+  upper_legs_damage: 29.0
   target_flinch: 0.8
   # range:
   effective_damage_range: 10.7
@@ -1383,9 +1383,9 @@
   # fire_rate:
   rate_of_fire: 857.1
   # recoil_control:
-  recoil_gun_kick: 49.70
-  horizontal_recoil: 12.60
-  vertical_recoil: 90.58
+  recoil_gun_kick: 54.93
+  horizontal_recoil: 9.70
+  vertical_recoil: 40.65
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 6.1
@@ -1897,7 +1897,7 @@
   ads_speed: 350.0
   reload_quickness: 5.4
   empty_reload_quickness: 6.3
-  sprint_to_fire_speed: 184.0
+  sprint_to_fire_speed: 200.0
   swap_speed: 1300.0
 
 - title: MW3
@@ -1920,8 +1920,8 @@
   rechamber_time: 1500.0
   # recoil_control:
   recoil_gun_kick: 35.18
-  horizontal_recoil: 19.68
-  vertical_recoil: 94.04
+  horizontal_recoil: 12.07
+  vertical_recoil: 61.06
   # accuracy:
   hipfire_spread_min: 5.8
   hipfire_spread_max: 7.3
@@ -1959,9 +1959,9 @@
   rate_of_fire: 400.0
   rechamber_time: 1500.0
   # recoil_control:
-  recoil_gun_kick: 40.90
-  horizontal_recoil: 57.15
-  vertical_recoil: 104.14
+  recoil_gun_kick: 42.21
+  horizontal_recoil: 29.94
+  vertical_recoil: 71.56
   # accuracy:
   hipfire_spread_min: 5.1
   hipfire_spread_max: 7.2
@@ -2276,9 +2276,9 @@
   # fire_rate:
   rate_of_fire: 491.6
   # recoil_control:
-  recoil_gun_kick: 27.54
-  horizontal_recoil: 27.69
-  vertical_recoil: 72.37
+  recoil_gun_kick: 29.41
+  horizontal_recoil: 20.91
+  vertical_recoil: 47.76
   # accuracy:
   hipfire_spread_min: 3.5
   hipfire_spread_max: 8.2
@@ -2314,9 +2314,9 @@
   # fire_rate:
   rate_of_fire: 705.9
   # recoil_control:
-  recoil_gun_kick: 20.00
-  horizontal_recoil: 3.72
-  vertical_recoil: 69.06
+  recoil_gun_kick: 20.63
+  horizontal_recoil: 7.28
+  vertical_recoil: 52.65
   # accuracy:
   hipfire_spread_min: 3.4
   hipfire_spread_max: 8.2
@@ -2332,7 +2332,7 @@
   ads_speed: 370.0
   reload_quickness: 3.6
   empty_reload_quickness: 3.8
-  sprint_to_fire_speed: 294.0
+  sprint_to_fire_speed: 231.0
   swap_speed: 1633.0
 
 - title: MW3
@@ -2353,9 +2353,9 @@
   rate_of_fire: 857.1
   open_bolt_delay: 0.0
   # recoil_control:
-  recoil_gun_kick: 35.00
-  horizontal_recoil: 10.38
-  vertical_recoil: 79.80
+  recoil_gun_kick: 35.53
+  horizontal_recoil: 8.49
+  vertical_recoil: 43.62
   # accuracy:
   hipfire_spread_min: 3.0
   hipfire_spread_max: 7.2
@@ -2392,9 +2392,9 @@
   rate_of_fire: 759.1
   open_bolt_delay: 33.0
   # recoil_control:
-  recoil_gun_kick: 18.00
-  horizontal_recoil: 6.99
-  vertical_recoil: 57.69
+  recoil_gun_kick: 19.30
+  horizontal_recoil: 8.09
+  vertical_recoil: 42.19
   # accuracy:
   hipfire_spread_min: 3.1
   hipfire_spread_max: 9.0
@@ -2430,9 +2430,9 @@
   # fire_rate:
   rate_of_fire: 705.9
   # recoil_control:
-  recoil_gun_kick: 18.00
-  horizontal_recoil: 30.56
-  vertical_recoil: 51.86
+  recoil_gun_kick: 19.48
+  horizontal_recoil: 20.89
+  vertical_recoil: 39.35
   # accuracy:
   hipfire_spread_min: 3.3
   hipfire_spread_max: 7.5
@@ -2698,9 +2698,9 @@
   # fire_rate:
   rate_of_fire: 230.8
   # recoil_control:
-  recoil_gun_kick: 50.90
-  horizontal_recoil: 37.98
-  vertical_recoil: 82.96
+  recoil_gun_kick: 49.38
+  horizontal_recoil: 48.42
+  vertical_recoil: 39.18
   # accuracy:
   hipfire_spread_min: 5.0
   hipfire_spread_max: 11.5
@@ -2737,8 +2737,8 @@
   rate_of_fire: 315.8
   # recoil_control:
   recoil_gun_kick: 21.03
-  horizontal_recoil: 25.61
-  vertical_recoil: 86.21
+  horizontal_recoil: 18.43
+  vertical_recoil: 68.04
   # accuracy:
   hipfire_spread_min: 5.0
   hipfire_spread_max: 12.1
@@ -2775,8 +2775,8 @@
   rate_of_fire: 428.6
   # recoil_control:
   recoil_gun_kick: 22.00
-  horizontal_recoil: 35.16
-  vertical_recoil: 89.70
+  horizontal_recoil: 33.85
+  vertical_recoil: 64.36
   # accuracy:
   hipfire_spread_min: 3.5
   hipfire_spread_max: 9.0
@@ -2792,7 +2792,7 @@
   ads_speed: 235.0
   reload_quickness: 2.3
   empty_reload_quickness: 3.0
-  sprint_to_fire_speed: 168.0
+  sprint_to_fire_speed: 199.0
   swap_speed: 1433.0
 
 - title: MW3
@@ -2800,7 +2800,7 @@
   name: MTZ INTERCEPTOR
   shoot_type: semi_auto
   # damage:
-  headshot_damage: 190.0
+  headshot_damage: 153.0
   upper_torso_damage: 95.0
   lower_torso_damage: 95.0
   upper_legs_damage: 85.0
@@ -2812,9 +2812,9 @@
   # fire_rate:
   rate_of_fire: 214.3
   # recoil_control:
-  recoil_gun_kick: 35.00
-  horizontal_recoil: 18.03
-  vertical_recoil: 101.30
+  recoil_gun_kick: 36.40
+  horizontal_recoil: 15.74
+  vertical_recoil: 66.86
   # accuracy:
   hipfire_spread_min: 4.8
   hipfire_spread_max: 11.0
@@ -3158,8 +3158,8 @@
   rechamber_time: 1633.0
   # recoil_control:
   recoil_gun_kick: 34.00
-  horizontal_recoil: 35.37
-  vertical_recoil: 92.98
+  horizontal_recoil: 27.89
+  vertical_recoil: 59.82
   # accuracy:
   hipfire_spread_min: 9.0
   hipfire_spread_max: 15.0
@@ -3196,8 +3196,8 @@
   rechamber_time: 2100.0
   # recoil_control:
   recoil_gun_kick: 70.00
-  horizontal_recoil: 82.38
-  vertical_recoil: 127.63
+  horizontal_recoil: 42.23
+  vertical_recoil: 70.29
   # accuracy:
   hipfire_spread_min: 11.0
   hipfire_spread_max: 15.0
@@ -3233,9 +3233,9 @@
   rate_of_fire: 111.1
   rechamber_time: 967.0
   # recoil_control:
-  recoil_gun_kick: 12.00
-  horizontal_recoil: 10.06
-  vertical_recoil: 79.01
+  recoil_gun_kick: 13.30
+  horizontal_recoil: 5.93
+  vertical_recoil: 67.74
   # accuracy:
   hipfire_spread_min: 8.0
   hipfire_spread_max: 13.0
@@ -3264,15 +3264,15 @@
   upper_legs_damage: 140.0
   target_flinch: 1.5
   # range:
-  effective_damage_range: 38.1
-  minimum_damage_range: 58.4
+  effective_damage_range: 30.5
+  minimum_damage_range: 61.0
   bullet_velocity: 820.0
   # fire_rate:
   rate_of_fire: 130.4
   # recoil_control:
-  recoil_gun_kick: 25.00
-  horizontal_recoil: 30.51
-  vertical_recoil: 51.66
+  recoil_gun_kick: 26.25
+  horizontal_recoil: 17.50
+  vertical_recoil: 30.31
   # accuracy:
   hipfire_spread_min: 10.0
   hipfire_spread_max: 16.0
@@ -3571,9 +3571,9 @@
   # fire_rate:
   rate_of_fire: 400.0
   # recoil_control:
-  recoil_gun_kick: 26.00
-  horizontal_recoil: 40.95
-  vertical_recoil: 78.99
+  recoil_gun_kick: 31.25
+  horizontal_recoil: 37.28
+  vertical_recoil: 53.24
   # accuracy:
   hipfire_spread_min: 1.5
   hipfire_spread_max: 5.0
@@ -3598,7 +3598,7 @@
   # damage:
   headshot_damage: 46.0
   upper_torso_damage: 36.0
-  lower_torso_damage: 36.0
+  lower_torso_damage: 33.0
   upper_legs_damage: 33.0
   target_flinch: 1.0
   # range:
@@ -3606,11 +3606,11 @@
   minimum_damage_range: 31.0
   bullet_velocity: 375.0
   # fire_rate:
-  rate_of_fire: 206.9
+  rate_of_fire: 620.7
   # recoil_control:
-  recoil_gun_kick: 36.00
-  horizontal_recoil: 18.59
-  vertical_recoil: 64.18
+  recoil_gun_kick: 33.75
+  horizontal_recoil: 14.78
+  vertical_recoil: 28.38
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 4.0
@@ -3634,8 +3634,8 @@
   shoot_type: semi_auto
   # damage:
   headshot_damage: 240.0
-  upper_torso_damage: 156.0
-  lower_torso_damage: 156.0
+  upper_torso_damage: 180.0
+  lower_torso_damage: 120.0
   upper_legs_damage: 120.0
   target_flinch: 1.0
   # range:
@@ -3643,11 +3643,11 @@
   minimum_damage_range: 42.7
   bullet_velocity: 310.0
   # fire_rate:
-  rate_of_fire: 260.2
+  rate_of_fire: 260.5
   # recoil_control:
-  recoil_gun_kick: 161.80
-  horizontal_recoil: 50.60
-  vertical_recoil: 283.30
+  recoil_gun_kick: 160.30
+  horizontal_recoil: 3.44
+  vertical_recoil: 127.29
   # accuracy:
   hipfire_spread_min: 2.2
   hipfire_spread_max: 12.5
@@ -3683,8 +3683,8 @@
   rate_of_fire: 1000.0
   # recoil_control:
   recoil_gun_kick: 31.05
-  horizontal_recoil: 34.80
-  vertical_recoil: 58.91
+  horizontal_recoil: 28.39
+  vertical_recoil: 33.65
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 4.5
