@@ -62,6 +62,14 @@
             frozen: true,
           },
           {
+            title: "実装",
+            headerTooltip: "実装時期",
+            field: "season",
+            headerFilter: "list",
+            headerFilterParams: { valuesLookup: true, clearable: true, sort: "asc" },
+            headerFilterPlaceholder: "検索",
+          },
+          {
             title: "射撃モード",
             field: "shoot_type",
             formatter: function (cell, formatterParams, onRendered) {

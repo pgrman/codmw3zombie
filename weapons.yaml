@@ -1,6 +1,7 @@
 - title: MW3
   category: アサルトライフル
   name: BP50
+  season: S2
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 38.0
@@ -39,6 +40,7 @@
 - title: MW3
   category: アサルトライフル
   name: SVA 545
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 42.0
@@ -77,6 +79,7 @@
 - title: MW3
   category: アサルトライフル
   name: RAM-7
+  season: S1
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 46.0
@@ -115,6 +118,7 @@
 - title: MW3
   category: アサルトライフル
   name: MTZ-556
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 39.0
@@ -153,6 +157,7 @@
 - title: MW3
   category: アサルトライフル
   name: HOLGER 556
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 54.0
@@ -191,6 +196,7 @@
 - title: MW3
   category: アサルトライフル
   name: MCW
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 44.0
@@ -229,6 +235,7 @@
 - title: MW3
   category: アサルトライフル
   name: DG-56
+  season: S0
   shoot_type: burst,semi_auto
   # damage:
   headshot_damage: 56.0
@@ -267,6 +274,7 @@
 - title: MW3
   category: アサルトライフル
   name: FR 5.56
+  season: S0
   shoot_type: burst,semi_auto
   # damage:
   headshot_damage: 60.0
@@ -305,6 +313,7 @@
 - title: MW2
   category: アサルトライフル
   name: TAQ-56
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 46.0
@@ -343,6 +352,7 @@
 - title: MW2
   category: アサルトライフル
   name: M4
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 37.0
@@ -381,6 +391,7 @@
 - title: MW2
   category: アサルトライフル
   name: STB 556
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 40.0
@@ -419,6 +430,7 @@
 - title: MW2
   category: アサルトライフル
   name: KASTOV 762
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 46.0
@@ -457,6 +469,7 @@
 - title: MW2
   category: アサルトライフル
   name: M13B
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 45.0
@@ -495,6 +508,7 @@
 - title: MW2
   category: アサルトライフル
   name: CHIMERA
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 44.0
@@ -533,6 +547,7 @@
 - title: MW2
   category: アサルトライフル
   name: ISO HEMLOCK
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 50.0
@@ -571,6 +586,7 @@
 - title: MW2
   category: アサルトライフル
   name: TEMPUS RAZORBACK
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 40.0
@@ -609,6 +625,7 @@
 - title: MW2
   category: アサルトライフル
   name: FR AVANCER
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 43.0
@@ -647,6 +664,7 @@
 - title: MW2
   category: アサルトライフル
   name: M13C
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 43.0
@@ -685,6 +703,7 @@
 - title: MW2
   category: アサルトライフル
   name: TR-76 GEIST
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 45.0
@@ -723,6 +742,7 @@
 - title: MW2
   category: アサルトライフル
   name: LACHMANN-556
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 42.0
@@ -761,6 +781,7 @@
 - title: MW2
   category: アサルトライフル
   name: M16
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 57.0
@@ -799,6 +820,7 @@
 - title: MW2
   category: アサルトライフル
   name: KASTOV-74U
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 50.0
@@ -837,6 +859,7 @@
 - title: MW2
   category: アサルトライフル
   name: KASTOV 545
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 47.0
@@ -875,6 +898,7 @@
 - title: MW3
   category: バトルライフル
   name: BAS-B
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 54.0
@@ -913,6 +937,7 @@
 - title: MW3
   category: バトルライフル
   name: SIDEWINDER
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 84.0
@@ -951,6 +976,7 @@
 - title: MW3
   category: バトルライフル
   name: MTZ-762
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 58.0
@@ -989,6 +1015,7 @@
 - title: MW2
   category: バトルライフル
   name: LACHMANN-762
+  season: S0
   shoot_type: semi_auto,full_auto
   # damage:
   headshot_damage: 78.0
@@ -1027,6 +1054,7 @@
 - title: MW2
   category: バトルライフル
   name: CRONEN SQUALL
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 41.0
@@ -1065,6 +1093,7 @@
 - title: MW2
   category: バトルライフル
   name: FTAC RECON
+  season: S0
   shoot_type: semi_auto,full_auto
   # damage:
   headshot_damage: 67.0
@@ -1103,6 +1132,7 @@
 - title: MW2
   category: バトルライフル
   name: TAQ-V
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 49.0
@@ -1141,6 +1171,7 @@
 - title: MW2
   category: バトルライフル
   name: SO-14
+  season: S0
   shoot_type: semi_auto,full_auto
   # damage:
   headshot_damage: 73.0
@@ -1179,6 +1210,7 @@
 - title: MW3
   category: サブマシンガン
   name: RAM-9
+  season: S2
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 42.0
@@ -1217,6 +1249,7 @@
 - title: MW3
   category: サブマシンガン
   name: STRIKER
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 46.0
@@ -1255,6 +1288,7 @@
 - title: MW3
   category: サブマシンガン
   name: HRM-9
+  season: S1
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 35.0
@@ -1293,6 +1327,7 @@
 - title: MW3
   category: サブマシンガン
   name: WSP SWARM
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 33.0
@@ -1331,6 +1366,7 @@
 - title: MW3
   category: サブマシンガン
   name: AMR9
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 42.0
@@ -1369,6 +1405,7 @@
 - title: MW3
   category: サブマシンガン
   name: WSP-9
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 54.0
@@ -1407,6 +1444,7 @@
 - title: MW3
   category: サブマシンガン
   name: RIVAL-9
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 37.0
@@ -1445,6 +1483,7 @@
 - title: MW3
   category: サブマシンガン
   name: STRIKER 9
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 37.0
@@ -1483,6 +1522,7 @@
 - title: MW2
   category: サブマシンガン
   name: LACHMANN SHROUD
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 45.0
@@ -1521,6 +1561,7 @@
 - title: MW2
   category: サブマシンガン
   name: ISO 9MM
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 32.0
@@ -1559,6 +1600,7 @@
 - title: MW2
   category: サブマシンガン
   name: PDSW 528
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 36.0
@@ -1597,6 +1639,7 @@
 - title: MW2
   category: サブマシンガン
   name: VEL 46
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 39.0
@@ -1635,6 +1678,7 @@
 - title: MW2
   category: サブマシンガン
   name: FENNEC 45
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 33.0
@@ -1673,6 +1717,7 @@
 - title: MW2
   category: サブマシンガン
   name: BAS-P
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 39.0
@@ -1711,6 +1756,7 @@
 - title: MW2
   category: サブマシンガン
   name: ISO 45
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 42.0
@@ -1749,6 +1795,7 @@
 - title: MW2
   category: サブマシンガン
   name: LACHMANN SUB
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 39.0
@@ -1787,6 +1834,7 @@
 - title: MW2
   category: サブマシンガン
   name: FSS HURRICANE
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 46.0
@@ -1825,6 +1873,7 @@
 - title: MW2
   category: サブマシンガン
   name: MX9
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 40.0
@@ -1863,6 +1912,7 @@
 - title: MW2
   category: サブマシンガン
   name: MINIBAK
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 46.0
@@ -1901,6 +1951,7 @@
 - title: MW2
   category: サブマシンガン
   name: VAZNEV-9K
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 38.0
@@ -1939,6 +1990,7 @@
 - title: MW3
   category: ショットガン
   name: LOCKWOOD 680
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 83.0
@@ -1979,6 +2031,7 @@
 - title: MW3
   category: ショットガン
   name: HAYMAKER
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 52.0
@@ -2019,6 +2072,7 @@
 - title: MW3
   category: ショットガン
   name: RIVETER
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 35.0
@@ -2059,6 +2113,7 @@
 - title: MW2
   category: ショットガン
   name: LOCKWOOD 300
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 60.0
@@ -2099,6 +2154,7 @@
 - title: MW2
   category: ショットガン
   name: EXPEDITE 12
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 140.0
@@ -2139,6 +2195,7 @@
 - title: MW2
   category: ショットガン
   name: BRYSON 800
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 120.0
@@ -2179,6 +2236,7 @@
 - title: MW2
   category: ショットガン
   name: KV BROADSIDE
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 35.0
@@ -2219,6 +2277,7 @@
 - title: MW2
   category: ショットガン
   name: MX GUARDIAN
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 37.0
@@ -2259,6 +2318,7 @@
 - title: MW2
   category: ショットガン
   name: BRYSON 890
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 140.0
@@ -2299,6 +2359,7 @@
 - title: MW3
   category: ライトマシンガン
   name: TAQ EVOLVERE
+  season: S1
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 40.0
@@ -2338,6 +2399,7 @@
 - title: MW3
   category: ライトマシンガン
   name: PULEMYOT 762
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 54.0
@@ -2376,6 +2438,7 @@
 - title: MW3
   category: ライトマシンガン
   name: DG-58 LSW
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 46.0
@@ -2414,6 +2477,7 @@
 - title: MW3
   category: ライトマシンガン
   name: BLUEN MK9
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 43.0
@@ -2453,6 +2517,7 @@
 - title: MW3
   category: ライトマシンガン
   name: TAQ ERADICATOR
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 39.0
@@ -2492,6 +2557,7 @@
 - title: MW3
   category: ライトマシンガン
   name: HOLGER 26
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 40.0
@@ -2530,6 +2596,7 @@
 - title: MW2
   category: ライトマシンガン
   name: SAKIN MG38
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 50.0
@@ -2568,6 +2635,7 @@
 - title: MW2
   category: ライトマシンガン
   name: RAAL MG
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 57.0
@@ -2607,6 +2675,7 @@
 - title: MW2
   category: ライトマシンガン
   name: 556 ICARUS
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 37.0
@@ -2645,6 +2714,7 @@
 - title: MW2
   category: ライトマシンガン
   name: RAPP H
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 44.0
@@ -2684,6 +2754,7 @@
 - title: MW2
   category: ライトマシンガン
   name: HCR 56
+  season: S0
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 42.0
@@ -2722,6 +2793,7 @@
 - title: MW2
   category: ライトマシンガン
   name: RPK
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 49.0
@@ -2760,6 +2832,7 @@
 - title: MW3
   category: マークスマンライフル
   name: KVD ENFORCER
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 154.0
@@ -2798,6 +2871,7 @@
 - title: MW3
   category: マークスマンライフル
   name: MCW 6.8
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 121.0
@@ -2836,6 +2910,7 @@
 - title: MW3
   category: マークスマンライフル
   name: DM56
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 75.0
@@ -2874,6 +2949,7 @@
 - title: MW3
   category: マークスマンライフル
   name: MTZ INTERCEPTOR
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 153.0
@@ -2912,6 +2988,7 @@
 - title: MW2
   category: マークスマンライフル
   name: EBR-14
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 114.0
@@ -2950,6 +3027,7 @@
 - title: MW2
   category: マークスマンライフル
   name: SP-R 208
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 251.0
@@ -2989,6 +3067,7 @@
 - title: MW2
   category: マークスマンライフル
   name: LOCKWOOD MK2
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 262.0
@@ -3028,6 +3107,7 @@
 - title: MW2
   category: マークスマンライフル
   name: TEMPUS TORRENT
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 90.0
@@ -3066,6 +3146,7 @@
 - title: MW2
   category: マークスマンライフル
   name: CROSSBOW
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 300.0
@@ -3103,6 +3184,7 @@
 - title: MW2
   category: マークスマンライフル
   name: LM-S
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 117.0
@@ -3141,6 +3223,7 @@
 - title: MW2
   category: マークスマンライフル
   name: SA-B 50
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 240.0
@@ -3180,6 +3263,7 @@
 - title: MW2
   category: マークスマンライフル
   name: TAQ-M
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 154.0
@@ -3218,6 +3302,7 @@
 - title: MW3
   category: スナイパーライフル
   name: XRK STALKER
+  season: S1
   shoot_type: semi_auto
   # damage:
   headshot_damage: 238.0
@@ -3256,6 +3341,7 @@
 - title: MW3
   category: スナイパーライフル
   name: KATT-AMR
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 360.0
@@ -3294,6 +3380,7 @@
 - title: MW3
   category: スナイパーライフル
   name: LONGBOW
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 240.0
@@ -3332,6 +3419,7 @@
 - title: MW3
   category: スナイパーライフル
   name: KV INHIBITOR
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 294.0
@@ -3369,6 +3457,7 @@
 - title: MW2
   category: スナイパーライフル
   name: MCPR-300
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 480.0
@@ -3407,6 +3496,7 @@
 - title: MW2
   category: スナイパーライフル
   name: SIGNAL 50
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 349.0
@@ -3444,6 +3534,7 @@
 - title: MW2
   category: スナイパーライフル
   name: VICTUS XMR
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 322.0
@@ -3482,6 +3573,7 @@
 - title: MW2
   category: スナイパーライフル
   name: FJX IMPERIUM
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 480.0
@@ -3520,6 +3612,7 @@
 - title: MW2
   category: スナイパーライフル
   name: CARRACK .300
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 161.0
@@ -3557,6 +3650,7 @@
 - title: MW2
   category: スナイパーライフル
   name: LA-B 330
+  season: S0
   shoot_type: TBC
   # damage:
   headshot_damage: 273.0
@@ -3595,6 +3689,7 @@
 - title: MW2
   category: スナイパーライフル
   name: SP-X 80
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 405.0
@@ -3633,6 +3728,7 @@
 - title: MW3
   category: ハンドガン
   name: COR-45
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 66.0
@@ -3670,6 +3766,7 @@
 - title: MW3
   category: ハンドガン
   name: RENETTI
+  season: S0
   shoot_type: burst
   # damage:
   headshot_damage: 46.0
@@ -3707,6 +3804,7 @@
 - title: MW3
   category: ハンドガン
   name: TYR
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 240.0
@@ -3744,6 +3842,7 @@
 - title: MW3
   category: ハンドガン
   name: WSP STINGER
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 26.0
@@ -3781,6 +3880,7 @@
 - title: MW2
   category: ハンドガン
   name: P890
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 104.0
@@ -3818,6 +3918,7 @@
 - title: MW2
   category: ハンドガン
   name: .50 GS
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 153.0
@@ -3855,6 +3956,7 @@
 - title: MW2
   category: ハンドガン
   name: X12
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 62.0
@@ -3892,6 +3994,7 @@
 - title: MW2
   category: ハンドガン
   name: BASILISK
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 210.0
@@ -3929,6 +4032,7 @@
 - title: MW2
   category: ハンドガン
   name: FTAC SIEGE
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 35.0
@@ -3966,6 +4070,7 @@
 - title: MW2
   category: ハンドガン
   name: GS MAGNA
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 76.0
@@ -4003,6 +4108,7 @@
 - title: MW2
   category: ハンドガン
   name: 9MM DAEMON
+  season: S0
   shoot_type: semi_auto
   # damage:
   headshot_damage: 72.0
@@ -4040,6 +4146,7 @@
 - title: MW2
   category: ハンドガン
   name: X13 AUTO
+  season: S0
   shoot_type: full_auto
   # damage:
   headshot_damage: 30.0
