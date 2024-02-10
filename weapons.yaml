@@ -587,7 +587,7 @@
   category: アサルトライフル
   name: TEMPUS RAZORBACK
   season: S0
-  shoot_type: TBC
+  shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 40.0
   upper_torso_damage: 31.0
@@ -1757,7 +1757,7 @@
   category: サブマシンガン
   name: ISO 45
   season: S0
-  shoot_type: TBC
+  shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 42.0
   upper_torso_damage: 33.0
@@ -2715,7 +2715,7 @@
   category: ライトマシンガン
   name: RAPP H
   season: S0
-  shoot_type: TBC
+  shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 44.0
   upper_torso_damage: 32.0
@@ -3535,7 +3535,7 @@
   category: スナイパーライフル
   name: VICTUS XMR
   season: S0
-  shoot_type: TBC
+  shoot_type: semi_auto
   # damage:
   headshot_damage: 322.0
   upper_torso_damage: 199.0
