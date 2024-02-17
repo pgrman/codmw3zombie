@@ -1486,21 +1486,21 @@
   season: S0
   shoot_type: full_auto,semi_auto
   # damage:
-  headshot_damage: 37.0
-  upper_torso_damage: 31.0
-  lower_torso_damage: 31.0
-  upper_legs_damage: 29.0
+  headshot_damage: 41.0
+  upper_torso_damage: 35.0
+  lower_torso_damage: 35.0
+  upper_legs_damage: 32.0
   target_flinch: 0.8
   # range:
-  effective_damage_range: 10.7
-  minimum_damage_range: 35.6
-  bullet_velocity: 540.0
+  effective_damage_range: 14.0
+  minimum_damage_range: 27.9
+  bullet_velocity: 560.0
   # fire_rate:
   rate_of_fire: 857.1
   # recoil_control:
-  recoil_gun_kick: 54.93
-  horizontal_recoil: 9.70
-  vertical_recoil: 40.65
+  recoil_gun_kick: 35.00
+  horizontal_recoil: 16.17
+  vertical_recoil: 50.93
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 6.1
@@ -2362,33 +2362,33 @@
   season: S1
   shoot_type: full_auto,semi_auto
   # damage:
-  headshot_damage: 40.0
-  upper_torso_damage: 34.0
-  lower_torso_damage: 34.0
-  upper_legs_damage: 34.0
+  headshot_damage: 56.0
+  upper_torso_damage: 48.0
+  lower_torso_damage: 48.0
+  upper_legs_damage: 40.0
   target_flinch: 0.5
   # range:
-  effective_damage_range: 35.6
-  minimum_damage_range: 40.6
+  effective_damage_range: 40.6
+  minimum_damage_range: 53.3
   bullet_velocity: 805.0
   # fire_rate:
-  rate_of_fire: 705.5
+  rate_of_fire: 499.8
   open_bolt_delay: 30.0
   # recoil_control:
   recoil_gun_kick: 19.27
-  horizontal_recoil: 13.72
-  vertical_recoil: 47.74
+  horizontal_recoil: 12.13
+  vertical_recoil: 63.73
   # accuracy:
   hipfire_spread_min: 3.5
   hipfire_spread_max: 8.2
   flinch_resistance: 0.15
   tactical_stance_spread: 3.9
   # mobility:
-  movement_speed: 4.4
+  movement_speed: 5.1
   crouch_movement_speed: 2.0
   sprint_speed: 5.3
   tactical_sprint_speed: 6.6
-  ads_movement_speed: 2.3
+  ads_movement_speed: 2.7
   # handling:
   ads_speed: 385.0
   reload_quickness: 6.8
@@ -3845,21 +3845,21 @@
   season: S0
   shoot_type: full_auto
   # damage:
-  headshot_damage: 26.0
-  upper_torso_damage: 24.0
-  lower_torso_damage: 24.0
-  upper_legs_damage: 24.0
+  headshot_damage: 31.0
+  upper_torso_damage: 29.0
+  lower_torso_damage: 29.0
+  upper_legs_damage: 29.0
   target_flinch: 1.0
   # range:
-  effective_damage_range: 6.3
+  effective_damage_range: 6.4
   minimum_damage_range: 20.1
   bullet_velocity: 250.0
   # fire_rate:
   rate_of_fire: 1000.0
   # recoil_control:
-  recoil_gun_kick: 31.05
-  horizontal_recoil: 28.39
-  vertical_recoil: 33.65
+  recoil_gun_kick: 57.96
+  horizontal_recoil: 18.64
+  vertical_recoil: 35.20
   # accuracy:
   hipfire_spread_min: 2.0
   hipfire_spread_max: 4.5
