@@ -14,8 +14,8 @@
   <body>
     <h1>Call of Duty: Modern Warfare III ゾンビモード武器一覧</h1>
     <ul class="note">
-      <li>表記の性能はアタッチメントなしの状態</li>
-      <li>マルチプレイヤーと性能差はないらしい</li>
+      <li>表記の性能はアタッチメントなしの状態　マルチプレイヤーと性能差はないらしい</li>
+      <li>クリックした行を先頭に固定　固定行をクリックすると固定解除</li>
       <li>2024-02-16 アップデート分まで反映</li>
     </ul>
     <div id="table"></div>
@@ -403,6 +403,32 @@
             ],
           },
         ],
+      });
+      table.on("rowClick", function (e, row) {
+        const parent = row.getTreeParent();
+        if (parent) {
+          if (parent.isFrozen()) {
+            parent.unfreeze();
+          } else {
+            parent.freeze();
+          }
+          const children = parent.getTreeChildren();
+          if (children.length) {
+            children.forEach((child) => {
+              if (child.isFrozen()) {
+                child.unfreeze();
+              } else {
+                child.freeze();
+              }
+            });
+          }
+          return;
+        }
+        if (row.isFrozen()) {
+          row.unfreeze();
+        } else {
+          row.freeze();
+        }
       });
     </script>
   </body>
