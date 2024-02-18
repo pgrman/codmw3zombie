@@ -2007,7 +2007,7 @@
     "upper_torso_damage": 48,
     "lower_torso_damage": 48,
     "upper_legs_damage": 40,
-    "target_flinch": 0.5,
+    "target_flinch": 0.8,
     "effective_damage_range": 40.6,
     "minimum_damage_range": 53.3,
     "bullet_velocity": 805,
