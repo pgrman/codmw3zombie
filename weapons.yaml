@@ -192,6 +192,8 @@
   empty_reload_quickness: 3.4
   sprint_to_fire_speed: 252.0
   swap_speed: 1433.0
+  # others
+  punch: マガジン3倍
   _children:
     - title: MW3
       category: アサルトライフル
@@ -231,6 +233,9 @@
       empty_reload_quickness: 3.4
       sprint_to_fire_speed: 302.0
       swap_speed: 1433.0
+      # others
+      punch: マガジン3倍
+      remarks: 4点バースト
     - title: MW3
       category: アサルトライフル
       name: BACKSAW コンバージョンキット
@@ -1127,6 +1132,8 @@
       empty_reload_quickness: 4.8
       sprint_to_fire_speed: 237.0
       swap_speed: 1500.0
+      # others
+      remarks: 連射し続けると連射速度が上がる
 
 - title: MW3
   category: バトルライフル
@@ -1595,6 +1602,8 @@
       empty_reload_quickness: 3.3
       sprint_to_fire_speed: 144.0
       swap_speed: 900.0
+      # others
+      remarks: 二挺拳銃
 
 - title: MW3
   category: サブマシンガン
@@ -1674,6 +1683,8 @@
       empty_reload_quickness: 3.3
       sprint_to_fire_speed: 189.0
       swap_speed: 1360.0
+      # others
+      remarks: 2発同時発射
 
 - title: MW3
   category: サブマシンガン
@@ -1830,6 +1841,8 @@
       empty_reload_quickness: 3.4
       sprint_to_fire_speed: 102.0
       swap_speed: 1360.0
+      # others
+      remarks: フルオートバースト
 
 - title: MW3
   category: サブマシンガン
@@ -1986,6 +1999,8 @@
   empty_reload_quickness: 3.6
   sprint_to_fire_speed: 110.0
   swap_speed: 1433.0
+  # others
+  punch: マガジン8倍
 
 - title: MW2
   category: サブマシンガン
@@ -2419,6 +2434,8 @@
   empty_reload_quickness: 3.4
   sprint_to_fire_speed: 262.0
   swap_speed: 1300.0
+  # others
+  punch: フルオート化
   _children:
     - title: MW3
       category: ショットガン
@@ -2460,6 +2477,8 @@
       empty_reload_quickness: 3.8
       sprint_to_fire_speed: 262.0
       swap_speed: 1300.0
+      # others
+      punch: フルオート化
 
 - title: MW3
   category: ショットガン
@@ -3572,6 +3591,8 @@
       empty_reload_quickness: 3.0
       sprint_to_fire_speed: 239.0
       swap_speed: 1433.0
+      # others
+      remarks: 4点バースト
 
 - title: MW3
   category: マークスマンライフル
@@ -4082,6 +4103,8 @@
       empty_reload_quickness: 3.3
       sprint_to_fire_speed: 200.0
       swap_speed: 1460.0
+      # others
+      punch: 2発同時発射
 
 - title: MW3
   category: スナイパーライフル
