@@ -1181,7 +1181,7 @@
       category: バトルライフル
       name: JAK ヘレティックカービンキット
       season: S0
-      shoot_type: TBC
+      shoot_type: full_auto,semi_auto
       # damage:
       headshot_damage: 45.0
       upper_torso_damage: 38.0
@@ -2932,7 +2932,7 @@
       category: ライトマシンガン
       name: JAK アナイアレーターブルパップキット
       season: S0
-      shoot_type: TBC
+      shoot_type: full_auto
       # damage:
       headshot_damage: 54.0
       upper_torso_damage: 49.0
@@ -4576,7 +4576,7 @@
       category: ハンドガン
       name: JAK フェロシティカービンキット
       season: S0
-      shoot_type: TBC
+      shoot_type: full_auto
       # damage:
       headshot_damage: 36.0
       upper_torso_damage: 28.0
