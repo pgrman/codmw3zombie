@@ -236,44 +236,47 @@
       # others
       punch: マガジン3倍
       remarks: 4点バースト
-    # - title: MW3
-    #   category: アサルトライフル
-    #   name: BACKSAW コンバージョンキット
-    #   season: S2
-    #   shoot_type: TBC
-    #   # damage:
-    #   headshot_damage: 54.0
-    #   upper_torso_damage: 42.0
-    #   lower_torso_damage: 42.0
-    #   upper_legs_damage: 42.0
-    #   target_flinch: 0.7
-    #   # range:
-    #   effective_damage_range: 36.8
-    #   minimum_damage_range: 47.0
-    #   bullet_velocity: 600.0
-    #   # fire_rate:
-    #   rate_of_fire: 666.7
-    #   # recoil_control:
-    #   recoil_gun_kick: 31.32
-    #   horizontal_recoil: 11.30
-    #   vertical_recoil: 37.16
-    #   # accuracy:
-    #   hipfire_spread_min: 2.1
-    #   hipfire_spread_max: 6.0
-    #   flinch_resistance: 0.15
-    #   tactical_stance_spread: 2.5
-    #   # mobility:
-    #   movement_speed: 4.3
-    #   crouch_movement_speed: 2.0
-    #   sprint_speed: 5.1
-    #   tactical_sprint_speed: 6.5
-    #   ads_movement_speed: 2.3
-    #   # handling:
-    #   ads_speed: 325.0
-    #   reload_quickness: 3.3
-    #   empty_reload_quickness: 3.9
-    #   sprint_to_fire_speed: 269.0
-    #   swap_speed: 1433.0
+    - title: MW3
+      category: アサルトライフル
+      name: JAK BACKSAWキット
+      season: S2
+      shoot_type: full_auto
+      # damage:
+      headshot_damage: 41.0
+      upper_torso_damage: 35.0
+      lower_torso_damage: 32.0
+      upper_legs_damage: 28.0
+      target_flinch: 0.7
+      # range:
+      effective_damage_range: 29.5
+      minimum_damage_range: 37.6
+      bullet_velocity: 621.0
+      # fire_rate:
+      rate_of_fire: 472.4
+      # recoil_control:
+      recoil_gun_kick: 29.49
+      horizontal_recoil: 21.91
+      vertical_recoil: 64.79
+      # accuracy:
+      hipfire_spread_min: 1.8
+      hipfire_spread_max: 5.3
+      flinch_resistance: 0.15
+      tactical_stance_spread: 2.2
+      # mobility:
+      movement_speed: 4.9
+      crouch_movement_speed: 2.5
+      sprint_speed: 5.5
+      tactical_sprint_speed: 6.9
+      ads_movement_speed: 2.9
+      # handling:
+      ads_speed: 229.0
+      reload_quickness: 3.3
+      empty_reload_quickness: 3.9
+      sprint_to_fire_speed: 226.0
+      swap_speed: 1433.0
+      # others
+      punch: マガジン3倍
+      remarks: 2発同時発射
 
 - title: MW3
   category: アサルトライフル
@@ -2448,7 +2451,7 @@
       lower_torso_damage: 30.0
       upper_legs_damage: 24.0
       target_flinch: 0.4
-      shotgun_spread: 2.4
+      shotgun_spread: 1.8
       # range:
       effective_damage_range: 3.8
       minimum_damage_range: 17.8
@@ -2461,10 +2464,10 @@
       horizontal_recoil: 9.65
       vertical_recoil: 30.53
       # accuracy:
-      hipfire_spread_min: 3.5
-      hipfire_spread_max: 4.4
+      hipfire_spread_min: 4.9
+      hipfire_spread_max: 6.2
       flinch_resistance: 0.15
-      tactical_stance_spread: 3.0
+      tactical_stance_spread: 4.2
       # mobility:
       movement_speed: 4.9
       crouch_movement_speed: 2.1
@@ -4122,14 +4125,14 @@
       rate_of_fire: 82.2
       rechamber_time: 1400.0
       # recoil_control:
-      recoil_gun_kick: 26.60
-      horizontal_recoil: 11.85
+      recoil_gun_kick: 27.36
+      horizontal_recoil: 17.78
       vertical_recoil: 135.48
       # accuracy:
-      hipfire_spread_min: 5.6
-      hipfire_spread_max: 9.1
+      hipfire_spread_min: 8.0
+      hipfire_spread_max: 13.0
       flinch_resistance: 0.75
-      tactical_stance_spread: 2.3
+      tactical_stance_spread: 3.3
       # mobility:
       movement_speed: 4.3
       crouch_movement_speed: 2.1
@@ -4137,7 +4140,7 @@
       tactical_sprint_speed: 7.0
       ads_movement_speed: 2.8
       # handling:
-      ads_speed: 390.0
+      ads_speed: 470.0
       reload_quickness: 2.6
       empty_reload_quickness: 3.3
       sprint_to_fire_speed: 200.0
