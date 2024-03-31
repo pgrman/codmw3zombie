@@ -465,10 +465,10 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.4
   tactical_sprint_speed: 6.9
-  ads_movement_speed: 2.5
+  ads_movement_speed: 2.7
   # handling:
   ads_speed: 250.0
-  reload_quickness: 2.5
+  reload_quickness: 2.6
   empty_reload_quickness: 3.0
   sprint_to_fire_speed: 210.0
   swap_speed: 1600.0
@@ -504,7 +504,7 @@
   crouch_movement_speed: 2.2
   sprint_speed: 5.5
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 2.6
+  ads_movement_speed: 2.9
   # handling:
   ads_speed: 240.0
   reload_quickness: 2.6
@@ -543,7 +543,7 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.4
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 2.4
+  ads_movement_speed: 2.7
   # handling:
   ads_speed: 240.0
   reload_quickness: 2.8
@@ -582,10 +582,10 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.4
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 2.4
+  ads_movement_speed: 2.7
   # handling:
   ads_speed: 260.0
-  reload_quickness: 2.5
+  reload_quickness: 2.6
   empty_reload_quickness: 3.0
   sprint_to_fire_speed: 210.0
   swap_speed: 1460.0
@@ -621,7 +621,7 @@
   crouch_movement_speed: 2.2
   sprint_speed: 5.5
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 2.6
+  ads_movement_speed: 2.9
   # handling:
   ads_speed: 230.0
   reload_quickness: 2.6
@@ -633,7 +633,7 @@
   category: アサルトライフル
   name: CHIMERA
   season: S0
-  shoot_type: TBC
+  shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 44.0
   upper_torso_damage: 37.0
@@ -660,7 +660,7 @@
   crouch_movement_speed: 2.2
   sprint_speed: 5.5
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 2.6
+  ads_movement_speed: 2.9
   # handling:
   ads_speed: 250.0
   reload_quickness: 2.6
@@ -672,7 +672,7 @@
   category: アサルトライフル
   name: ISO HEMLOCK
   season: S0
-  shoot_type: TBC
+  shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 50.0
   upper_torso_damage: 43.0
@@ -699,7 +699,7 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.4
   tactical_sprint_speed: 6.9
-  ads_movement_speed: 2.6
+  ads_movement_speed: 2.9
   # handling:
   ads_speed: 260.0
   reload_quickness: 3.1
@@ -738,7 +738,7 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.6
   tactical_sprint_speed: 6.8
-  ads_movement_speed: 2.3
+  ads_movement_speed: 2.6
   # handling:
   ads_speed: 220.0
   reload_quickness: 2.8
@@ -750,7 +750,7 @@
   category: アサルトライフル
   name: FR AVANCER
   season: S0
-  shoot_type: TBC
+  shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 43.0
   upper_torso_damage: 31.0
@@ -777,7 +777,7 @@
   crouch_movement_speed: 2.0
   sprint_speed: 5.9
   tactical_sprint_speed: 6.8
-  ads_movement_speed: 3.1
+  ads_movement_speed: 3.2
   # handling:
   ads_speed: 280.0
   reload_quickness: 2.8
@@ -816,7 +816,7 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.7
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 2.9
+  ads_movement_speed: 3.2
   # handling:
   ads_speed: 247.0
   reload_quickness: 2.6
@@ -855,7 +855,7 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.7
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 2.5
+  ads_movement_speed: 2.8
   # handling:
   ads_speed: 280.0
   reload_quickness: 3.2
@@ -894,7 +894,7 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.4
   tactical_sprint_speed: 6.9
-  ads_movement_speed: 2.4
+  ads_movement_speed: 2.7
   # handling:
   ads_speed: 240.0
   reload_quickness: 3.5
@@ -906,7 +906,7 @@
   category: アサルトライフル
   name: M16
   season: S0
-  shoot_type: TBC
+  shoot_type: burst,semi_auto
   # damage:
   headshot_damage: 57.0
   upper_torso_damage: 38.0
@@ -933,13 +933,15 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.4
   tactical_sprint_speed: 6.9
-  ads_movement_speed: 2.5
+  ads_movement_speed: 2.8
   # handling:
   ads_speed: 240.0
   reload_quickness: 2.6
   empty_reload_quickness: 2.7
   sprint_to_fire_speed: 189.0
   swap_speed: 1500.0
+  # others
+  punch: フルオート化
 
 - title: MW2
   category: アサルトライフル
@@ -972,7 +974,7 @@
   crouch_movement_speed: 2.2
   sprint_speed: 5.8
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 2.6
+  ads_movement_speed: 2.9
   # handling:
   ads_speed: 225.0
   reload_quickness: 2.6
@@ -1011,13 +1013,52 @@
   crouch_movement_speed: 2.2
   sprint_speed: 5.6
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 2.6
+  ads_movement_speed: 2.9
   # handling:
   ads_speed: 225.0
   reload_quickness: 2.6
   empty_reload_quickness: 2.9
   sprint_to_fire_speed: 210.0
   swap_speed: 1510.0
+
+- title: MW3
+  category: バトルライフル
+  name: SOA SUBVERTER
+  season: S2
+  shoot_type: full_auto,semi_auto
+  # damage:
+  headshot_damage: 50.0
+  upper_torso_damage: 44.0
+  lower_torso_damage: 39.0
+  upper_legs_damage: 39.0
+  target_flinch: 0.7
+  # range:
+  effective_damage_range: 24.9
+  minimum_damage_range: 24.9
+  bullet_velocity: 810.0
+  # fire_rate:
+  rate_of_fire: 697.7
+  # recoil_control:
+  recoil_gun_kick: 21.57
+  horizontal_recoil: 11.33
+  vertical_recoil: 50.50
+  # accuracy:
+  hipfire_spread_min: 3.0
+  hipfire_spread_max: 9.0
+  flinch_resistance: 0.15
+  tactical_stance_spread: 4.3
+  # mobility:
+  movement_speed: 4.5
+  crouch_movement_speed: 2.3
+  sprint_speed: 5.3
+  tactical_sprint_speed: 6.7
+  ads_movement_speed: 2.6
+  # handling:
+  ads_speed: 278.0
+  reload_quickness: 3.1
+  empty_reload_quickness: 3.7
+  sprint_to_fire_speed: 256.0
+  swap_speed: 1530.0
 
 - title: MW3
   category: バトルライフル
@@ -1377,7 +1418,7 @@
   category: バトルライフル
   name: TAQ-V
   season: S0
-  shoot_type: TBC
+  shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 49.0
   upper_torso_damage: 38.0
@@ -1930,7 +1971,7 @@
   category: サブマシンガン
   name: LACHMANN SHROUD
   season: S0
-  shoot_type: TBC
+  shoot_type: burst,semi_auto
   # damage:
   headshot_damage: 45.0
   upper_torso_damage: 38.0
@@ -2205,7 +2246,7 @@
   category: サブマシンガン
   name: LACHMANN SUB
   season: S0
-  shoot_type: TBC
+  shoot_type: full_auto,burst
   # damage:
   headshot_damage: 39.0
   upper_torso_damage: 36.0
@@ -2727,6 +2768,8 @@
   empty_reload_quickness: 4.2
   sprint_to_fire_speed: 189.0
   swap_speed: 1567.0
+  # others
+  punch: フルオート化
 
 - title: MW2
   category: ショットガン
@@ -3798,7 +3841,7 @@
   category: マークスマンライフル
   name: LOCKWOOD MK2
   season: S0
-  shoot_type: TBC
+  shoot_type: semi_auto
   # damage:
   headshot_damage: 262.0
   upper_torso_damage: 150.0
@@ -3833,6 +3876,8 @@
   empty_reload_quickness: 330.5
   sprint_to_fire_speed: 118.0
   swap_speed: 1793.0
+  # others
+  remarks: 撃ち切りリロード速度は5.8秒程
 
 - title: MW2
   category: マークスマンライフル
@@ -4423,7 +4468,7 @@
   category: スナイパーライフル
   name: LA-B 330
   season: S0
-  shoot_type: TBC
+  shoot_type: semi_auto
   # damage:
   headshot_damage: 273.0
   upper_torso_damage: 247.0
