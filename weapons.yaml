@@ -49,8 +49,8 @@
   upper_legs_damage: 30.0
   target_flinch: 0.8
   # range:
-  effective_damage_range: 31.8
-  minimum_damage_range: 51.8
+  effective_damage_range: 44.4
+  minimum_damage_range: 61.0
   bullet_velocity: 760.0
   # fire_rate:
   rate_of_fire: 681.8
@@ -129,7 +129,7 @@
   # range:
   effective_damage_range: 26.7
   minimum_damage_range: 47.0
-  bullet_velocity: 650
+  bullet_velocity: 650.0
   # fire_rate:
   rate_of_fire: 810.8
   # recoil_control:
@@ -163,7 +163,7 @@
   headshot_damage: 54.0
   upper_torso_damage: 42.0
   lower_torso_damage: 42.0
-  upper_legs_damage: 42.0
+  upper_legs_damage: 35.0
   target_flinch: 0.7
   # range:
   effective_damage_range: 36.8
@@ -204,7 +204,7 @@
       headshot_damage: 54.0
       upper_torso_damage: 42.0
       lower_torso_damage: 42.0
-      upper_legs_damage: 42.0
+      upper_legs_damage: 35.0
       target_flinch: 0.7
       # range:
       effective_damage_range: 36.8
@@ -247,6 +247,7 @@
       lower_torso_damage: 32.0
       upper_legs_damage: 28.0
       target_flinch: 0.7
+      shotgun_spread: 0.3
       # range:
       effective_damage_range: 29.5
       minimum_damage_range: 37.6
@@ -284,7 +285,7 @@
   season: S0
   shoot_type: full_auto,semi_auto
   # damage:
-  headshot_damage: 44.0
+  headshot_damage: 37.0
   upper_torso_damage: 37.0
   lower_torso_damage: 34.0
   upper_legs_damage: 34.0
@@ -292,7 +293,7 @@
   # range:
   effective_damage_range: 26.7
   minimum_damage_range: 45.2
-  bullet_velocity: 710
+  bullet_velocity: 710.0
   # fire_rate:
   rate_of_fire: 714.3
   # recoil_control:
@@ -331,7 +332,7 @@
       # range:
       effective_damage_range: 19.8
       minimum_damage_range: 45.7
-      bullet_velocity: 480
+      bullet_velocity: 480.0
       # fire_rate:
       rate_of_fire: 800.0
       # recoil_control:
@@ -392,7 +393,7 @@
   ads_speed: 240.0
   reload_quickness: 3.2
   empty_reload_quickness: 3.7
-  sprint_to_fire_speed: 178.0
+  sprint_to_fire_speed: 199.0
   swap_speed: 1530.0
 
 - title: MW3
@@ -734,7 +735,7 @@
   flinch_resistance: 0.17
   tactical_stance_spread: 3.2
   # mobility:
-  movement_speed: 4.8
+  movement_speed: 4.6
   crouch_movement_speed: 2.1
   sprint_speed: 5.6
   tactical_sprint_speed: 6.8
@@ -920,9 +921,9 @@
   # fire_rate:
   rate_of_fire: 596.0
   # recoil_control:
-  recoil_gun_kick: 33.00
-  horizontal_recoil: 5.79
-  vertical_recoil: 67.57
+  recoil_gun_kick: 21.66
+  horizontal_recoil: 5.25
+  vertical_recoil: 64.77
   # accuracy:
   hipfire_spread_min: 2.6
   hipfire_spread_max: 7.4
@@ -1031,7 +1032,7 @@
   upper_torso_damage: 44.0
   lower_torso_damage: 39.0
   upper_legs_damage: 39.0
-  target_flinch: 0.7
+  target_flinch: 0.8
   # range:
   effective_damage_range: 24.9
   minimum_damage_range: 24.9
@@ -1054,10 +1055,10 @@
   tactical_sprint_speed: 6.7
   ads_movement_speed: 2.6
   # handling:
-  ads_speed: 278.0
+  ads_speed: 290.0
   reload_quickness: 3.1
   empty_reload_quickness: 3.7
-  sprint_to_fire_speed: 256.0
+  sprint_to_fire_speed: 268.0
   swap_speed: 1530.0
 
 - title: MW3
@@ -1076,7 +1077,7 @@
   minimum_damage_range: 53.3
   bullet_velocity: 790.0
   # fire_rate:
-  rate_of_fire: 666.7
+  rate_of_fire: 660.0
   # recoil_control:
   recoil_gun_kick: 21.75
   horizontal_recoil: 14.65
@@ -1115,7 +1116,7 @@
       minimum_damage_range: 55.9
       bullet_velocity: 790.0
       # fire_rate:
-      rate_of_fire: 271.0
+      rate_of_fire: 241.0
       rechamber_time: 266.0
       # recoil_control:
       recoil_gun_kick: 21.75
@@ -1133,10 +1134,10 @@
       tactical_sprint_speed: 6.9
       ads_movement_speed: 3.0
       # handling:
-      ads_speed: 300.0
+      ads_speed: 245.0
       reload_quickness: 3.2
       empty_reload_quickness: 3.2
-      sprint_to_fire_speed: 252.0
+      sprint_to_fire_speed: 226.0
       swap_speed: 1530.0
 
 - title: MW3
@@ -1153,7 +1154,7 @@
   # range:
   effective_damage_range: 19.1
   minimum_damage_range: 36.8
-  bullet_velocity: 600.0
+  bullet_velocity: 770.0
   # fire_rate:
   rate_of_fire: 375.0
   # recoil_control:
@@ -1175,7 +1176,7 @@
   ads_speed: 265.0
   reload_quickness: 2.8
   empty_reload_quickness: 3.1
-  sprint_to_fire_speed: 231.0
+  sprint_to_fire_speed: 210.0
   swap_speed: 1500.0
   _children:
     - title: MW3
@@ -1192,7 +1193,7 @@
       # range:
       effective_damage_range: 25.4
       minimum_damage_range: 45.7
-      bullet_velocity: 600.0
+      bullet_velocity: 770.0
       # fire_rate:
       rate_of_fire: 387.1
       # recoil_control:
@@ -1214,7 +1215,7 @@
       ads_speed: 310.0
       reload_quickness: 3.9
       empty_reload_quickness: 4.8
-      sprint_to_fire_speed: 237.0
+      sprint_to_fire_speed: 216.0
       swap_speed: 1500.0
       # others
       remarks: 連射し続けると連射速度が上がる
@@ -1325,10 +1326,10 @@
   tactical_stance_spread: 4.2
   # mobility:
   movement_speed: 4.5
-  crouch_movement_speed: 2.0
+  crouch_movement_speed: 2.2
   sprint_speed: 5.5
   tactical_sprint_speed: 6.9
-  ads_movement_speed: 2.3
+  ads_movement_speed: 2.5
   # handling:
   ads_speed: 263.0
   reload_quickness: 3.7
@@ -1364,10 +1365,10 @@
   tactical_stance_spread: 4.2
   # mobility:
   movement_speed: 4.5
-  crouch_movement_speed: 2.0
+  crouch_movement_speed: 2.1
   sprint_speed: 5.4
   tactical_sprint_speed: 6.8
-  ads_movement_speed: 2.6
+  ads_movement_speed: 2.9
   # handling:
   ads_speed: 285.0
   reload_quickness: 3.2
@@ -1403,10 +1404,10 @@
   tactical_stance_spread: 4.3
   # mobility:
   movement_speed: 4.7
-  crouch_movement_speed: 2.1
+  crouch_movement_speed: 2.3
   sprint_speed: 5.7
   tactical_sprint_speed: 6.9
-  ads_movement_speed: 2.5
+  ads_movement_speed: 2.8
   # handling:
   ads_speed: 250.0
   reload_quickness: 2.6
@@ -1481,10 +1482,10 @@
   tactical_stance_spread: 3.8
   # mobility:
   movement_speed: 4.6
-  crouch_movement_speed: 2.1
+  crouch_movement_speed: 2.2
   sprint_speed: 5.8
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 1.8
+  ads_movement_speed: 2.0
   # handling:
   ads_speed: 302.0
   reload_quickness: 3.0
@@ -1567,7 +1568,7 @@
   ads_speed: 200.0
   reload_quickness: 2.8
   empty_reload_quickness: 3.3
-  sprint_to_fire_speed: 178.0
+  sprint_to_fire_speed: 147.0
   swap_speed: 1500.0
 
 - title: MW3
@@ -1606,7 +1607,7 @@
   ads_speed: 215.0
   reload_quickness: 2.6
   empty_reload_quickness: 3.6
-  sprint_to_fire_speed: 100.0
+  sprint_to_fire_speed: 110.0
   swap_speed: 1200.0
 
 - title: MW3
@@ -1645,7 +1646,7 @@
   ads_speed: 208.0
   reload_quickness: 2.8
   empty_reload_quickness: 3.2
-  sprint_to_fire_speed: 94.0
+  sprint_to_fire_speed: 110.0
   swap_speed: 1400.0
 
 - title: MW3
@@ -1684,7 +1685,7 @@
   ads_speed: 175.0
   reload_quickness: 2.7
   empty_reload_quickness: 3.6
-  sprint_to_fire_speed: 88.0
+  sprint_to_fire_speed: 99.0
   swap_speed: 1140.0
   _children:
     - title: MW3
@@ -1723,7 +1724,7 @@
       ads_speed: 175.0
       reload_quickness: 2.8
       empty_reload_quickness: 3.3
-      sprint_to_fire_speed: 144.0
+      sprint_to_fire_speed: 152.0
       swap_speed: 900.0
       # others
       remarks: 二挺拳銃
@@ -1764,7 +1765,7 @@
   ads_speed: 240.0
   reload_quickness: 2.5
   empty_reload_quickness: 3.3
-  sprint_to_fire_speed: 189.0
+  sprint_to_fire_speed: 136.0
   swap_speed: 1360.0
   _children:
     - title: MW3
@@ -1804,7 +1805,7 @@
       ads_speed: 240.0
       reload_quickness: 2.5
       empty_reload_quickness: 3.3
-      sprint_to_fire_speed: 189.0
+      sprint_to_fire_speed: 136.0
       swap_speed: 1360.0
       # others
       remarks: 2発同時発射
@@ -1845,7 +1846,7 @@
   ads_speed: 220.0
   reload_quickness: 2.8
   empty_reload_quickness: 3.5
-  sprint_to_fire_speed: 88.0
+  sprint_to_fire_speed: 110.0
   swap_speed: 1233.0
   _children:
     - title: MW3
@@ -1884,7 +1885,7 @@
       ads_speed: 241.0
       reload_quickness: 2.8
       empty_reload_quickness: 3.5
-      sprint_to_fire_speed: 88.0
+      sprint_to_fire_speed: 110.0
       swap_speed: 1233.0
 
 - title: MW3
@@ -1895,7 +1896,7 @@
   # damage:
   headshot_damage: 37.0
   upper_torso_damage: 31.0
-  lower_torso_damage: 31.0
+  lower_torso_damage: 29.0
   upper_legs_damage: 29.0
   target_flinch: 0.7
   # range:
@@ -1923,7 +1924,7 @@
   ads_speed: 190.0
   reload_quickness: 2.7
   empty_reload_quickness: 3.4
-  sprint_to_fire_speed: 93.0
+  sprint_to_fire_speed: 110.0
   swap_speed: 1360.0
   _children:
     - title: MW3
@@ -1962,7 +1963,7 @@
       ads_speed: 207.0
       reload_quickness: 2.7
       empty_reload_quickness: 3.4
-      sprint_to_fire_speed: 102.0
+      sprint_to_fire_speed: 121.0
       swap_speed: 1360.0
       # others
       remarks: フルオートバースト
@@ -2003,7 +2004,7 @@
   ads_speed: 205.0
   reload_quickness: 2.6
   empty_reload_quickness: 3.6
-  sprint_to_fire_speed: 100.0
+  sprint_to_fire_speed: 103.0
   swap_speed: 1200.0
 
 - title: MW2
@@ -2696,7 +2697,7 @@
   lower_torso_damage: 102.0
   upper_legs_damage: 95.0
   target_flinch: 1.5
-  shotgun_spread: 2.7
+  shotgun_spread: 2.5
   # range:
   effective_damage_range: 2.5
   minimum_damage_range: 24.4
@@ -2968,10 +2969,10 @@
   tactical_sprint_speed: 6.6
   ads_movement_speed: 2.7
   # handling:
-  ads_speed: 385.0
+  ads_speed: 415.0
   reload_quickness: 6.8
   empty_reload_quickness: 8.3
-  sprint_to_fire_speed: 245.0
+  sprint_to_fire_speed: 257.0
   swap_speed: 1900.0
   _children:
     - title: MW3
@@ -2990,7 +2991,7 @@
       minimum_damage_range: 50.8
       bullet_velocity: 805.0
       # fire_rate:
-      rate_of_fire: 856.7
+      rate_of_fire: 789.1
       open_bolt_delay: 30.0
       # recoil_control:
       recoil_gun_kick: 14.59
@@ -3008,10 +3009,10 @@
       tactical_sprint_speed: 6.7
       ads_movement_speed: 3.0
       # handling:
-      ads_speed: 366.0
+      ads_speed: 394.0
       reload_quickness: 6.8
       empty_reload_quickness: 8.3
-      sprint_to_fire_speed: 218.0
+      sprint_to_fire_speed: 229.0
       swap_speed: 1900.0
     - title: MW3
       category: ライトマシンガン
@@ -3029,7 +3030,7 @@
       minimum_damage_range: 50.8
       bullet_velocity: 805.0
       # fire_rate:
-      rate_of_fire: 856.7
+      rate_of_fire: 789.1
       open_bolt_delay: 30.0
       # recoil_control:
       recoil_gun_kick: 14.59
@@ -3047,10 +3048,10 @@
       tactical_sprint_speed: 6.6
       ads_movement_speed: 2.9
       # handling:
-      ads_speed: 379.0
+      ads_speed: 408.0
       reload_quickness: 7.1
       empty_reload_quickness: 8.8
-      sprint_to_fire_speed: 237.0
+      sprint_to_fire_speed: 249.0
       swap_speed: 1900.0
 
 - title: MW3
@@ -3164,7 +3165,7 @@
   tactical_sprint_speed: 6.5
   ads_movement_speed: 2.4
   # handling:
-  ads_speed: 370.0
+  ads_speed: 320.0
   reload_quickness: 3.6
   empty_reload_quickness: 3.8
   sprint_to_fire_speed: 231.0
@@ -3243,10 +3244,10 @@
   tactical_sprint_speed: 6.4
   ads_movement_speed: 2.4
   # handling:
-  ads_speed: 410.0
+  ads_speed: 350.0
   reload_quickness: 5.8
   empty_reload_quickness: 8.4
-  sprint_to_fire_speed: 250.0
+  sprint_to_fire_speed: 225.0
   swap_speed: 2517.0
   _children:
     - title: MW3
@@ -3436,11 +3437,11 @@
   flinch_resistance: 0.17
   tactical_stance_spread: 4.1
   # mobility:
-  movement_speed: 3.9
-  crouch_movement_speed: 1.6
+  movement_speed: 4.3
+  crouch_movement_speed: 2.0
   sprint_speed: 5.1
-  tactical_sprint_speed: 6.3
-  ads_movement_speed: 1.9
+  tactical_sprint_speed: 6.4
+  ads_movement_speed: 2.3
   # handling:
   ads_speed: 410.0
   reload_quickness: 7.8
@@ -3455,9 +3456,9 @@
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 57.0
-  upper_torso_damage: 44.0
+  upper_torso_damage: 52.0
   lower_torso_damage: 44.0
-  upper_legs_damage: 39.0
+  upper_legs_damage: 44.0
   target_flinch: 0.9
   # range:
   effective_damage_range: 41.9
@@ -3482,10 +3483,10 @@
   tactical_sprint_speed: 6.3
   ads_movement_speed: 2.2
   # handling:
-  ads_speed: 330.0
+  ads_speed: 380.0
   reload_quickness: 8.0
   empty_reload_quickness: 8.3
-  sprint_to_fire_speed: 199.0
+  sprint_to_fire_speed: 216.0
   swap_speed: 2533.0
 
 - title: MW2
@@ -3540,7 +3541,7 @@
   target_flinch: 0.9
   # range:
   effective_damage_range: 36.1
-  minimum_damage_range: 57.1
+  minimum_damage_range: 57.2
   bullet_velocity: 840.0
   # fire_rate:
   rate_of_fire: 800.0
@@ -3555,11 +3556,11 @@
   flinch_resistance: 0.17
   tactical_stance_spread: 4.0
   # mobility:
-  movement_speed: 3.9
-  crouch_movement_speed: 1.6
+  movement_speed: 4.3
+  crouch_movement_speed: 2.0
   sprint_speed: 5.2
-  tactical_sprint_speed: 6.3
-  ads_movement_speed: 1.8
+  tactical_sprint_speed: 6.4
+  ads_movement_speed: 2.3
   # handling:
   ads_speed: 420.0
   reload_quickness: 7.4
@@ -3594,11 +3595,11 @@
   flinch_resistance: 0.17
   tactical_stance_spread: 3.8
   # mobility:
-  movement_speed: 4.0
-  crouch_movement_speed: 1.7
+  movement_speed: 4.5
+  crouch_movement_speed: 2.1
   sprint_speed: 5.2
-  tactical_sprint_speed: 6.4
-  ads_movement_speed: 1.9
+  tactical_sprint_speed: 6.5
+  ads_movement_speed: 2.4
   # handling:
   ads_speed: 310.0
   reload_quickness: 4.4
@@ -3715,7 +3716,7 @@
   crouch_movement_speed: 2.0
   sprint_speed: 5.5
   tactical_sprint_speed: 6.8
-  ads_movement_speed: 2.2
+  ads_movement_speed: 2.3
   # handling:
   ads_speed: 245.0
   reload_quickness: 2.5
@@ -3875,7 +3876,7 @@
   tactical_sprint_speed: 6.8
   ads_movement_speed: 2.5
   # handling:
-  ads_speed: 280.0
+  ads_speed: 300.0
   reload_quickness: 2.7
   empty_reload_quickness: 3.4
   sprint_to_fire_speed: 262.0
@@ -3908,11 +3909,11 @@
   flinch_resistance: 0.25
   tactical_stance_spread: 4.7
   # mobility:
-  movement_speed: 4.1
-  crouch_movement_speed: 1.9
+  movement_speed: 4.3
+  crouch_movement_speed: 2.1
   sprint_speed: 5.3
-  tactical_sprint_speed: 6.7
-  ads_movement_speed: 1.9
+  tactical_sprint_speed: 6.8
+  ads_movement_speed: 2.2
   # handling:
   ads_speed: 240.0
   reload_quickness: 2.4
@@ -4029,11 +4030,11 @@
   flinch_resistance: 0.25
   tactical_stance_spread: 5.0
   # mobility:
-  movement_speed: 4.2
-  crouch_movement_speed: 1.8
+  movement_speed: 4.3
+  crouch_movement_speed: 2.0
   sprint_speed: 5.4
   tactical_sprint_speed: 6.8
-  ads_movement_speed: 2.0
+  ads_movement_speed: 2.3
   # handling:
   ads_speed: 290.0
   reload_quickness: 2.7
@@ -4047,10 +4048,10 @@
   season: S0
   shoot_type: semi_auto
   # damage:
-  headshot_damage: 300.0
-  upper_torso_damage: 120.0
-  lower_torso_damage: 101.0
-  upper_legs_damage: 90.0
+  headshot_damage: 375.0
+  upper_torso_damage: 150.0
+  lower_torso_damage: 126.0
+  upper_legs_damage: 112.0
   target_flinch: 1.2
   # range:
   effective_damage_range: 52.0
@@ -4067,11 +4068,11 @@
   hipfire_spread_max: 12.0
   flinch_resistance: 0.25
   # mobility:
-  movement_speed: 4.5
-  crouch_movement_speed: 2.0
+  movement_speed: 4.6
+  crouch_movement_speed: 2.2
   sprint_speed: 5.4
   tactical_sprint_speed: 6.9
-  ads_movement_speed: 2.3
+  ads_movement_speed: 2.5
   # handling:
   ads_speed: 350.0
   reload_quickness: 3.3
@@ -4186,13 +4187,13 @@
   tactical_stance_spread: 5.2
   # mobility:
   movement_speed: 4.4
-  crouch_movement_speed: 2.0
+  crouch_movement_speed: 2.2
   sprint_speed: 5.4
   tactical_sprint_speed: 6.9
-  ads_movement_speed: 2.2
+  ads_movement_speed: 2.5
   # handling:
   ads_speed: 290.0
-  reload_quickness: 2.5
+  reload_quickness: 2.6
   empty_reload_quickness: 3.0
   sprint_to_fire_speed: 210.0
   swap_speed: 1600.0
@@ -4230,7 +4231,7 @@
   tactical_sprint_speed: 6.8
   ads_movement_speed: 1.7
   # handling:
-  ads_speed: 580.0
+  ads_speed: 600.0
   reload_quickness: 4.3
   empty_reload_quickness: 5.1
   sprint_to_fire_speed: 283.0
@@ -4428,7 +4429,7 @@
   tactical_sprint_speed: 6.8
   ads_movement_speed: 2.1
   # handling:
-  ads_speed: 540.0
+  ads_speed: 580.0
   reload_quickness: 3.3
   empty_reload_quickness: 4.1
   sprint_to_fire_speed: 273.0
@@ -4461,11 +4462,11 @@
   hipfire_spread_max: 15.0
   flinch_resistance: 0.85
   # mobility:
-  movement_speed: 3.8
-  crouch_movement_speed: 1.7
+  movement_speed: 4.3
+  crouch_movement_speed: 2.0
   sprint_speed: 5.3
-  tactical_sprint_speed: 6.6
-  ads_movement_speed: 1.1
+  tactical_sprint_speed: 6.7
+  ads_movement_speed: 1.7
   # handling:
   ads_speed: 600.0
   reload_quickness: 4.3
@@ -4538,11 +4539,11 @@
   hipfire_spread_max: 15.0
   flinch_resistance: 0.85
   # mobility:
-  movement_speed: 3.8
-  crouch_movement_speed: 1.7
+  movement_speed: 4.3
+  crouch_movement_speed: 1.9
   sprint_speed: 5.3
-  tactical_sprint_speed: 6.5
-  ads_movement_speed: 1.1
+  tactical_sprint_speed: 6.6
+  ads_movement_speed: 1.7
   # handling:
   ads_speed: 625.0
   reload_quickness: 3.3
@@ -4577,11 +4578,11 @@
   hipfire_spread_max: 15.0
   flinch_resistance: 0.85
   # mobility:
-  movement_speed: 3.9
-  crouch_movement_speed: 1.8
+  movement_speed: 4.4
+  crouch_movement_speed: 2.1
   sprint_speed: 5.5
   tactical_sprint_speed: 6.6
-  ads_movement_speed: 1.1
+  ads_movement_speed: 1.7
   # handling:
   ads_speed: 580.0
   reload_quickness: 4.6
@@ -4615,11 +4616,11 @@
   hipfire_spread_max: 15.0
   flinch_resistance: 0.85
   # mobility:
-  movement_speed: 4.0
-  crouch_movement_speed: 1.9
+  movement_speed: 4.5
+  crouch_movement_speed: 2.1
   sprint_speed: 5.5
-  tactical_sprint_speed: 6.7
-  ads_movement_speed: 1.1
+  tactical_sprint_speed: 6.8
+  ads_movement_speed: 1.7
   # handling:
   ads_speed: 535.0
   reload_quickness: 4.0
@@ -4654,11 +4655,11 @@
   hipfire_spread_max: 15.0
   flinch_resistance: 0.85
   # mobility:
-  movement_speed: 3.8
-  crouch_movement_speed: 1.7
+  movement_speed: 4.3
+  crouch_movement_speed: 2.0
   sprint_speed: 5.3
-  tactical_sprint_speed: 6.6
-  ads_movement_speed: 0.8
+  tactical_sprint_speed: 6.7
+  ads_movement_speed: 1.3
   # handling:
   ads_speed: 602.0
   reload_quickness: 3.0
@@ -4702,7 +4703,7 @@
   ads_speed: 570.0
   reload_quickness: 3.0
   empty_reload_quickness: 4.0
-  sprint_to_fire_speed: 270.0
+  sprint_to_fire_speed: 310.0
   swap_speed: 1933.0
 
 - title: MW3
@@ -4826,10 +4827,10 @@
       season: S0
       shoot_type: full_auto
       # damage:
-      headshot_damage: 36.0
-      upper_torso_damage: 28.0
-      lower_torso_damage: 26.0
-      upper_legs_damage: 26.0
+      headshot_damage: 46.0
+      upper_torso_damage: 36.0
+      lower_torso_damage: 33.0
+      upper_legs_damage: 33.0
       target_flinch: 1.0
       # range:
       effective_damage_range: 17.5
@@ -4839,8 +4840,8 @@
       rate_of_fire: 620.7
       # recoil_control:
       recoil_gun_kick: 22.60
-      horizontal_recoil: 17.78
-      vertical_recoil: 37.82
+      horizontal_recoil: 14.49
+      vertical_recoil: 37.86
       # accuracy:
       hipfire_spread_min: 2.0
       hipfire_spread_max: 4.0
