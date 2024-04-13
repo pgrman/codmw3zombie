@@ -1494,6 +1494,45 @@
 
 - title: MW3
   category: サブマシンガン
+  name: FJX HORUS
+  season: S3
+  shoot_type: full_auto
+  # damage:
+  headshot_damage: 37.0
+  upper_torso_damage: 31.0
+  lower_torso_damage: 29.0
+  upper_legs_damage: 29.0
+  target_flinch: 0.8
+  # range:
+  effective_damage_range: 10.2
+  minimum_damage_range: 40.6
+  bullet_velocity: 480.0
+  # fire_rate:
+  rate_of_fire: 983.6
+  # recoil_control:
+  recoil_gun_kick: 42.50
+  horizontal_recoil: 21.58
+  vertical_recoil: 32.31
+  # accuracy:
+  hipfire_spread_min: 2.0
+  hipfire_spread_max: 5.2
+  flinch_resistance: 0.20
+  tactical_stance_spread: 2.3
+  # mobility:
+  movement_speed: 5.1
+  crouch_movement_speed: 2.1
+  sprint_speed: 5.9
+  tactical_sprint_speed: 7.3
+  ads_movement_speed: 3.3
+  # handling:
+  ads_speed: 170.0
+  reload_quickness: 2.2
+  empty_reload_quickness: 3.1
+  sprint_to_fire_speed: 93.0
+  swap_speed: 1100.0
+
+- title: MW3
+  category: サブマシンガン
   name: RAM-9
   season: S2
   shoot_type: full_auto,semi_auto
@@ -4112,6 +4151,46 @@
   empty_reload_quickness: 5.1
   sprint_to_fire_speed: 283.0
   swap_speed: 2333.0
+
+- title: MW3
+  category: スナイパーライフル
+  name: MORS
+  season: S3
+  shoot_type: semi_auto
+  # damage:
+  headshot_damage: 286.0
+  upper_torso_damage: 169.0
+  lower_torso_damage: 156.0
+  upper_legs_damage: 130.0
+  target_flinch: 1.5
+  # range:
+  effective_damage_range: 50.8
+  minimum_damage_range: 50.8
+  bullet_velocity: 960.0
+  # fire_rate:
+  rate_of_fire: 200.0
+  # recoil_control:
+  recoil_gun_kick: 20.00
+  horizontal_recoil: 0.00
+  vertical_recoil: 32.00
+  # accuracy:
+  hipfire_spread_min: 9.0
+  hipfire_spread_max: 15.0
+  flinch_resistance: 0.85
+  # mobility:
+  movement_speed: 4.1
+  crouch_movement_speed: 1.9
+  sprint_speed: 5.3
+  tactical_sprint_speed: 6.3
+  ads_movement_speed: 1.4
+  # handling:
+  ads_speed: 560.0
+  reload_quickness: 1.9
+  empty_reload_quickness: 1.9
+  sprint_to_fire_speed: 273.0
+  swap_speed: 1499.0
+  # others
+  remarks: 1発ごとにリロード
 
 - title: MW3
   category: スナイパーライフル
