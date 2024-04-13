@@ -3649,6 +3649,7 @@
     "empty_reload_quickness": 1.9,
     "sprint_to_fire_speed": 273,
     "swap_speed": 1499,
+    "punch": "弾がグレネード化",
     "remarks": "1発ごとにリロード"
   },
   {

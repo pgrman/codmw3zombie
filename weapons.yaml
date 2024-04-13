@@ -4275,6 +4275,7 @@
   sprint_to_fire_speed: 273.0
   swap_speed: 1499.0
   # others
+  punch: 弾がグレネード化
   remarks: 1発ごとにリロード
 
 - title: MW3
