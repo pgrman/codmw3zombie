@@ -30,7 +30,42 @@
     "reload_quickness": 2.9,
     "empty_reload_quickness": 3.9,
     "sprint_to_fire_speed": 168,
-    "swap_speed": 1767
+    "swap_speed": 1767,
+    "_children": [
+      {
+        "title": "MW3",
+        "category": "アサルトライフル",
+        "name": "JAK リベンジキット",
+        "season": "S3",
+        "shoot_type": "full_auto,semi_auto",
+        "headshot_damage": 38,
+        "upper_torso_damage": 35,
+        "lower_torso_damage": 32,
+        "upper_legs_damage": 32,
+        "target_flinch": 0.4,
+        "effective_damage_range": 11.2,
+        "minimum_damage_range": 28.2,
+        "bullet_velocity": 562.5,
+        "rate_of_fire": 983.6,
+        "recoil_gun_kick": 38.36,
+        "horizontal_recoil": 17.89,
+        "vertical_recoil": 29.38,
+        "hipfire_spread_min": 2.4,
+        "hipfire_spread_max": 6.7,
+        "flinch_resistance": 0.15,
+        "tactical_stance_spread": 2.9,
+        "movement_speed": 5.5,
+        "crouch_movement_speed": 2.6,
+        "sprint_speed": 6.2,
+        "tactical_sprint_speed": 7.7,
+        "ads_movement_speed": 3.3,
+        "ads_speed": 180,
+        "reload_quickness": 3.6,
+        "empty_reload_quickness": 4.3,
+        "sprint_to_fire_speed": 134,
+        "swap_speed": 1767
+      }
+    ]
   },
   {
     "title": "MW3",
