@@ -4082,6 +4082,49 @@
   swap_speed: 1793.0
   # others
   remarks: 撃ち切りリロード速度は5.8秒程
+  _children:
+    - title: MW2
+      category: マークスマンライフル
+      name: JAK ウォーデン
+      season: S3
+      shoot_type: semi_auto
+      # damage:
+      headshot_damage: 60.0
+      upper_torso_damage: 45.0
+      lower_torso_damage: 45.0
+      upper_legs_damage: 45.0
+      target_flinch: 2.2
+      shotgun_spread: 0.0
+      # range:
+      effective_damage_range: 4.6
+      minimum_damage_range: 29.2
+      bullet_velocity: 483.0
+      # fire_rate:
+      rate_of_fire: 120.0
+      rechamber_time: 633.0
+      # recoil_control:
+      recoil_gun_kick: 66.76
+      horizontal_recoil: 1.81
+      vertical_recoil: 20.72
+      # accuracy:
+      hipfire_spread_min: 2.3
+      hipfire_spread_max: 5.5
+      flinch_resistance: 0.27
+      tactical_stance_spread: 2.8
+      # mobility:
+      movement_speed: 4.9
+      crouch_movement_speed: 2.4
+      sprint_speed: 5.7
+      tactical_sprint_speed: 7.0
+      ads_movement_speed: 3.1
+      # handling:
+      ads_speed: 240.0
+      reload_quickness: 2.8
+      empty_reload_quickness: 3.3
+      sprint_to_fire_speed: 35.0
+      swap_speed: 1017.0
+      # others
+      remarks: 二挺ショットガン
 
 - title: MW2
   category: マークスマンライフル
