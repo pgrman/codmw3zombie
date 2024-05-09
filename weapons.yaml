@@ -1889,6 +1889,46 @@
       swap_speed: 1360.0
       # others
       remarks: 2発同時発射
+    - title: MW3
+      category: サブマシンガン
+      name: JAK アトラスキット
+      season: S3
+      shoot_type: burst
+      # damage:
+      headshot_damage: 39.0
+      upper_torso_damage: 33.0
+      lower_torso_damage: 30.0
+      upper_legs_damage: 27.0
+      target_flinch: 0.7
+      # range:
+      effective_damage_range: 15.2
+      minimum_damage_range: 40.6
+      bullet_velocity: 812.5
+      # fire_rate:
+      rate_of_fire: 740.7
+      # recoil_control:
+      recoil_gun_kick: 39.31
+      horizontal_recoil: 6.72
+      vertical_recoil: 29.60
+      # accuracy:
+      hipfire_spread_min: 2.0
+      hipfire_spread_max: 6.1
+      flinch_resistance: 0.15
+      tactical_stance_spread: 3.3
+      # mobility:
+      movement_speed: 4.9
+      crouch_movement_speed: 1.9
+      sprint_speed: 5.6
+      tactical_sprint_speed: 7.0
+      ads_movement_speed: 3.1
+      # handling:
+      ads_speed: 240.0
+      reload_quickness: 2.5
+      empty_reload_quickness: 3.3
+      sprint_to_fire_speed: 136.0
+      swap_speed: 1360.0
+      # others
+      remarks: フルオート5点バースト
 
 - title: MW3
   category: サブマシンガン
