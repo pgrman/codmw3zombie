@@ -4147,10 +4147,10 @@
       horizontal_recoil: 1.81
       vertical_recoil: 20.72
       # accuracy:
-      hipfire_spread_min: 2.3
-      hipfire_spread_max: 5.5
+      hipfire_spread_min: 3.3
+      hipfire_spread_max: 5.8
       flinch_resistance: 0.27
-      tactical_stance_spread: 2.8
+      tactical_stance_spread: 2.9
       # mobility:
       movement_speed: 4.9
       crouch_movement_speed: 2.4
