@@ -3300,8 +3300,8 @@
   shoot_type: full_auto,semi_auto
   # damage:
   headshot_damage: 49.0
-  upper_torso_damage: 38.0
-  lower_torso_damage: 38.0
+  upper_torso_damage: 35.0
+  lower_torso_damage: 35.0
   upper_legs_damage: 35.0
   target_flinch: 0.8
   # range:
@@ -4928,7 +4928,7 @@
   minimum_damage_range: 30.5
   bullet_velocity: 375.0
   # fire_rate:
-  rate_of_fire: 400.0
+  rate_of_fire: 375.0
   # recoil_control:
   recoil_gun_kick: 31.25
   horizontal_recoil: 37.28
@@ -4966,7 +4966,7 @@
       minimum_damage_range: 18.3
       bullet_velocity: 375.0
       # fire_rate:
-      rate_of_fire: 400.0
+      rate_of_fire: 375.0
       # recoil_control:
       recoil_gun_kick: 31.25
       horizontal_recoil: 37.28
@@ -5003,7 +5003,7 @@
       minimum_damage_range: 39.6
       bullet_velocity: 600.0
       # fire_rate:
-      rate_of_fire: 800.0
+      rate_of_fire: 705.9
       # recoil_control:
       recoil_gun_kick: 27.58
       horizontal_recoil: 8.07
