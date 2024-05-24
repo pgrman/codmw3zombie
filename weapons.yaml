@@ -2206,6 +2206,8 @@
   empty_reload_quickness: 3.6
   sprint_to_fire_speed: 110.0
   swap_speed: 1133.0
+  # others
+  punch: 6点バースト化
 
 - title: MW2
   category: サブマシンガン

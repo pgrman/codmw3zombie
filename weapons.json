@@ -1883,7 +1883,8 @@
     "reload_quickness": 3.4,
     "empty_reload_quickness": 3.6,
     "sprint_to_fire_speed": 110,
-    "swap_speed": 1133
+    "swap_speed": 1133,
+    "punch": "6点バースト化"
   },
   {
     "title": "MW2",
