@@ -25,11 +25,11 @@
   flinch_resistance: 0.15
   tactical_stance_spread: 3.2
   # mobility:
-  movement_speed: 5.0
+  movement_speed: 4.8
   crouch_movement_speed: 2.3
-  sprint_speed: 5.7
-  tactical_sprint_speed: 7.0
-  ads_movement_speed: 3.0
+  sprint_speed: 5.5
+  tactical_sprint_speed: 6.8
+  ads_movement_speed: 2.9
   # handling:
   ads_speed: 230.0
   reload_quickness: 2.9
@@ -43,10 +43,10 @@
       season: S3
       shoot_type: full_auto,semi_auto
       # damage:
-      headshot_damage: 38.0
-      upper_torso_damage: 35.0
-      lower_torso_damage: 32.0
-      upper_legs_damage: 32.0
+      headshot_damage: 33.0
+      upper_torso_damage: 30.0
+      lower_torso_damage: 28.0
+      upper_legs_damage: 28.0
       target_flinch: 0.4
       # range:
       effective_damage_range: 11.2
@@ -64,11 +64,11 @@
       flinch_resistance: 0.15
       tactical_stance_spread: 3.2
       # mobility:
-      movement_speed: 5.5
-      crouch_movement_speed: 2.6
-      sprint_speed: 6.2
-      tactical_sprint_speed: 7.7
-      ads_movement_speed: 3.3
+      movement_speed: 5.1
+      crouch_movement_speed: 2.4
+      sprint_speed: 5.8
+      tactical_sprint_speed: 7.1
+      ads_movement_speed: 3.1
       # handling:
       ads_speed: 180.0
       reload_quickness: 3.6
@@ -293,9 +293,9 @@
       # fire_rate:
       rate_of_fire: 585.4
       # recoil_control:
-      recoil_gun_kick: 22.88
-      horizontal_recoil: 14.35
-      vertical_recoil: 47.25
+      recoil_gun_kick: 14.49
+      horizontal_recoil: 7.97
+      vertical_recoil: 23.63
       # accuracy:
       hipfire_spread_min: 3.1
       hipfire_spread_max: 7.0
@@ -365,7 +365,7 @@
   season: S0
   shoot_type: full_auto,semi_auto
   # damage:
-  headshot_damage: 37.0
+  headshot_damage: 42.0
   upper_torso_damage: 37.0
   lower_torso_damage: 34.0
   upper_legs_damage: 34.0
@@ -1316,7 +1316,7 @@
       minimum_damage_range: 45.7
       bullet_velocity: 770.0
       # fire_rate:
-      rate_of_fire: 387.1
+      rate_of_fire: 600.0
       # recoil_control:
       recoil_gun_kick: 36.47
       horizontal_recoil: 10.61
@@ -1374,7 +1374,7 @@
   tactical_sprint_speed: 6.8
   ads_movement_speed: 2.6
   # handling:
-  ads_speed: 280.0
+  ads_speed: 260.0
   reload_quickness: 3.1
   empty_reload_quickness: 3.7
   sprint_to_fire_speed: 231.0
@@ -1413,7 +1413,7 @@
       tactical_sprint_speed: 7.0
       ads_movement_speed: 2.8
       # handling:
-      ads_speed: 260.0
+      ads_speed: 261.0
       reload_quickness: 3.1
       empty_reload_quickness: 3.8
       sprint_to_fire_speed: 169.0
@@ -1622,17 +1622,17 @@
   # damage:
   headshot_damage: 37.0
   upper_torso_damage: 31.0
-  lower_torso_damage: 29.0
+  lower_torso_damage: 31.0
   upper_legs_damage: 29.0
   target_flinch: 0.8
   # range:
-  effective_damage_range: 10.2
+  effective_damage_range: 15.2
   minimum_damage_range: 40.6
   bullet_velocity: 480.0
   # fire_rate:
   rate_of_fire: 983.6
   # recoil_control:
-  recoil_gun_kick: 42.50
+  recoil_gun_kick: 35.35
   horizontal_recoil: 21.58
   vertical_recoil: 32.31
   # accuracy:
@@ -1645,7 +1645,7 @@
   crouch_movement_speed: 2.1
   sprint_speed: 5.9
   tactical_sprint_speed: 7.3
-  ads_movement_speed: 3.3
+  ads_movement_speed: 3.5
   # handling:
   ads_speed: 170.0
   reload_quickness: 2.2
@@ -1665,7 +1665,7 @@
   upper_legs_damage: 33.0
   target_flinch: 0.8
   # range:
-  effective_damage_range: 11.2
+  effective_damage_range: 12.4
   minimum_damage_range: 45.7
   bullet_velocity: 500.0
   # fire_rate:
@@ -1684,7 +1684,7 @@
   crouch_movement_speed: 2.0
   sprint_speed: 5.9
   tactical_sprint_speed: 7.2
-  ads_movement_speed: 3.3
+  ads_movement_speed: 3.5
   # handling:
   ads_speed: 220.0
   reload_quickness: 2.8
@@ -1704,7 +1704,7 @@
   upper_legs_damage: 36.0
   target_flinch: 0.7
   # range:
-  effective_damage_range: 9.7
+  effective_damage_range: 10.9
   minimum_damage_range: 35.6
   bullet_velocity: 570.0
   # fire_rate:
@@ -1723,7 +1723,7 @@
   crouch_movement_speed: 1.9
   sprint_speed: 5.8
   tactical_sprint_speed: 7.1
-  ads_movement_speed: 3.2
+  ads_movement_speed: 3.4
   # handling:
   ads_speed: 204.0
   reload_quickness: 2.6
@@ -1743,7 +1743,7 @@
   upper_legs_damage: 31.0
   target_flinch: 0.8
   # range:
-  effective_damage_range: 16.5
+  effective_damage_range: 17.8
   minimum_damage_range: 33.0
   bullet_velocity: 480.0
   # fire_rate:
@@ -1762,7 +1762,7 @@
   crouch_movement_speed: 1.9
   sprint_speed: 5.7
   tactical_sprint_speed: 7.1
-  ads_movement_speed: 3.3
+  ads_movement_speed: 3.5
   # handling:
   ads_speed: 208.0
   reload_quickness: 2.8
@@ -1801,7 +1801,7 @@
   crouch_movement_speed: 2.2
   sprint_speed: 5.9
   tactical_sprint_speed: 7.3
-  ads_movement_speed: 3.4
+  ads_movement_speed: 3.6
   # handling:
   ads_speed: 175.0
   reload_quickness: 2.7
@@ -1840,7 +1840,7 @@
       crouch_movement_speed: 2.0
       sprint_speed: 5.7
       tactical_sprint_speed: 7.0
-      ads_movement_speed: 3.4
+      ads_movement_speed: 3.6
       # handling:
       ads_speed: 175.0
       reload_quickness: 2.8
@@ -1862,7 +1862,7 @@
   upper_legs_damage: 33.0
   target_flinch: 0.7
   # range:
-  effective_damage_range: 14.0
+  effective_damage_range: 15.2
   minimum_damage_range: 35.6
   bullet_velocity: 625.0
   # fire_rate:
@@ -1881,7 +1881,7 @@
   crouch_movement_speed: 1.9
   sprint_speed: 5.6
   tactical_sprint_speed: 7.0
-  ads_movement_speed: 3.1
+  ads_movement_speed: 3.3
   # handling:
   ads_speed: 240.0
   reload_quickness: 2.5
@@ -1902,8 +1902,8 @@
       target_flinch: 0.7
       shotgun_spread: 0.3
       # range:
-      effective_damage_range: 7.0
-      minimum_damage_range: 17.8
+      effective_damage_range: 11.4
+      minimum_damage_range: 26.7
       bullet_velocity: 625.0
       # fire_rate:
       rate_of_fire: 571.4
@@ -1921,7 +1921,7 @@
       crouch_movement_speed: 1.9
       sprint_speed: 5.6
       tactical_sprint_speed: 7.0
-      ads_movement_speed: 3.1
+      ads_movement_speed: 3.3
       # handling:
       ads_speed: 240.0
       reload_quickness: 2.5
@@ -1961,7 +1961,7 @@
       crouch_movement_speed: 1.9
       sprint_speed: 5.6
       tactical_sprint_speed: 7.0
-      ads_movement_speed: 3.1
+      ads_movement_speed: 3.3
       # handling:
       ads_speed: 240.0
       reload_quickness: 2.5
@@ -1983,7 +1983,7 @@
   upper_legs_damage: 42.0
   target_flinch: 0.7
   # range:
-  effective_damage_range: 18.5
+  effective_damage_range: 24.1
   minimum_damage_range: 38.1
   bullet_velocity: 540.0
   # fire_rate:
@@ -2002,7 +2002,7 @@
   crouch_movement_speed: 1.9
   sprint_speed: 5.7
   tactical_sprint_speed: 7.1
-  ads_movement_speed: 3.2
+  ads_movement_speed: 3.4
   # handling:
   ads_speed: 220.0
   reload_quickness: 2.8
@@ -2041,7 +2041,7 @@
       crouch_movement_speed: 1.9
       sprint_speed: 5.7
       tactical_sprint_speed: 7.0
-      ads_movement_speed: 3.2
+      ads_movement_speed: 3.4
       # handling:
       ads_speed: 241.0
       reload_quickness: 2.8
@@ -2061,7 +2061,7 @@
   upper_legs_damage: 29.0
   target_flinch: 0.7
   # range:
-  effective_damage_range: 10.2
+  effective_damage_range: 11.4
   minimum_damage_range: 45.7
   bullet_velocity: 450.0
   # fire_rate:
@@ -2080,7 +2080,7 @@
   crouch_movement_speed: 2.0
   sprint_speed: 5.8
   tactical_sprint_speed: 7.1
-  ads_movement_speed: 3.3
+  ads_movement_speed: 3.5
   # handling:
   ads_speed: 190.0
   reload_quickness: 2.7
@@ -2094,17 +2094,17 @@
       season: S1
       shoot_type: burst,semi_auto
       # damage:
-      headshot_damage: 52.0
-      upper_torso_damage: 39.0
-      lower_torso_damage: 28.0
-      upper_legs_damage: 26.0
+      headshot_damage: 66.0
+      upper_torso_damage: 36.0
+      lower_torso_damage: 36.0
+      upper_legs_damage: 33.0
       target_flinch: 0.7
       # range:
       effective_damage_range: 25.4
       minimum_damage_range: 45.7
       bullet_velocity: 900.0
       # fire_rate:
-      rate_of_fire: 681.8
+      rate_of_fire: 882.4
       # recoil_control:
       recoil_gun_kick: 31.76
       horizontal_recoil: 9.33
@@ -2119,7 +2119,7 @@
       crouch_movement_speed: 1.9
       sprint_speed: 5.6
       tactical_sprint_speed: 6.9
-      ads_movement_speed: 3.2
+      ads_movement_speed: 3.4
       # handling:
       ads_speed: 207.0
       reload_quickness: 2.7
@@ -2141,7 +2141,7 @@
   upper_legs_damage: 32.0
   target_flinch: 0.8
   # range:
-  effective_damage_range: 14.0
+  effective_damage_range: 15.2
   minimum_damage_range: 27.9
   bullet_velocity: 560.0
   # fire_rate:
@@ -2160,7 +2160,7 @@
   crouch_movement_speed: 1.9
   sprint_speed: 5.9
   tactical_sprint_speed: 7.2
-  ads_movement_speed: 3.3
+  ads_movement_speed: 3.5
   # handling:
   ads_speed: 205.0
   reload_quickness: 2.6
@@ -3427,7 +3427,7 @@
       # range:
       effective_damage_range: 20.8
       minimum_damage_range: 37.2
-      bullet_velocity: 567.0
+      bullet_velocity: 729.0
       # fire_rate:
       rate_of_fire: 844.4
       open_bolt_delay: 50.0
@@ -3983,9 +3983,9 @@
       # fire_rate:
       rate_of_fire: 585.4
       # recoil_control:
-      recoil_gun_kick: 20.87
-      horizontal_recoil: 30.47
-      vertical_recoil: 64.36
+      recoil_gun_kick: 13.20
+      horizontal_recoil: 6.40
+      vertical_recoil: 34.07
       # accuracy:
       hipfire_spread_min: 3.1
       hipfire_spread_max: 8.1
@@ -4392,7 +4392,7 @@
   flinch_resistance: 0.25
   tactical_stance_spread: 5.2
   # mobility:
-  movement_speed: 4.4
+  movement_speed: 4.6
   crouch_movement_speed: 2.2
   sprint_speed: 5.4
   tactical_sprint_speed: 6.9
