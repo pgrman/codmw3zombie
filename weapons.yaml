@@ -5300,6 +5300,43 @@
       empty_reload_quickness: 3.5
       sprint_to_fire_speed: 100.0
       swap_speed: 1333.0
+    - title: MW3
+      category: ハンドガン
+      name: JAK インティミデーター
+      season: S4
+      shoot_type: semi_auto
+      # damage:
+      headshot_damage: 84.0
+      upper_torso_damage: 60.0
+      lower_torso_damage: 60.0
+      upper_legs_damage: 60.0
+      target_flinch: 0.8
+      # range:
+      effective_damage_range: 9.1
+      minimum_damage_range: 28.4
+      bullet_velocity: 487.5
+      # fire_rate:
+      rate_of_fire: 290.3
+      # recoil_control:
+      recoil_gun_kick: 32.00
+      horizontal_recoil: 11.11
+      vertical_recoil: 26.35
+      # accuracy:
+      hipfire_spread_min: 2.0
+      hipfire_spread_max: 4.0
+      flinch_resistance: 0.16
+      # mobility:
+      movement_speed: 5.4
+      crouch_movement_speed: 2.4
+      sprint_speed: 5.9
+      tactical_sprint_speed: 7.2
+      ads_movement_speed: 4.5
+      # handling:
+      ads_speed: 150.0
+      reload_quickness: 2.1
+      empty_reload_quickness: 2.4
+      sprint_to_fire_speed: 40.0
+      swap_speed: 1100.0
 
 - title: MW3
   category: ハンドガン
