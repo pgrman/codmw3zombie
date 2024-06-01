@@ -1616,6 +1616,45 @@
 
 - title: MW3
   category: サブマシンガン
+  name: SUPERI 46
+  season: S4
+  shoot_type: full_auto,semi_auto
+  # damage:
+  headshot_damage: 45.0
+  upper_torso_damage: 39.0
+  lower_torso_damage: 39.0
+  upper_legs_damage: 30.0
+  target_flinch: 0.8
+  # range:
+  effective_damage_range: 18.8
+  minimum_damage_range: 50.5
+  bullet_velocity: 630.0
+  # fire_rate:
+  rate_of_fire: 666.7
+  # recoil_control:
+  recoil_gun_kick: 31.80
+  horizontal_recoil: 19.12
+  vertical_recoil: 40.63
+  # accuracy:
+  hipfire_spread_min: 2.0
+  hipfire_spread_max: 5.0
+  flinch_resistance: 0.17
+  tactical_stance_spread: 2.2
+  # mobility:
+  movement_speed: 5.0
+  crouch_movement_speed: 2.0
+  sprint_speed: 5.9
+  tactical_sprint_speed: 7.1
+  ads_movement_speed: 3.6
+  # handling:
+  ads_speed: 200.0
+  reload_quickness: 2.0
+  empty_reload_quickness: 2.4
+  sprint_to_fire_speed: 110.0
+  swap_speed: 1633.0
+
+- title: MW3
+  category: サブマシンガン
   name: FJX HORUS
   season: S3
   shoot_type: full_auto
