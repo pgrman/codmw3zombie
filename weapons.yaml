@@ -592,6 +592,45 @@
   empty_reload_quickness: 2.7
   sprint_to_fire_speed: 210.0
   swap_speed: 1500.0
+  _children:
+    - title: MW2
+      category: アサルトライフル
+      name: JAK ハービンジャーキット
+      season: S4
+      shoot_type: full_auto,semi_auto
+      # damage:
+      headshot_damage: 110.0
+      upper_torso_damage: 101.0
+      lower_torso_damage: 101.0
+      upper_legs_damage: 100.0
+      target_flinch: 0.8
+      # range:
+      effective_damage_range: 12.7
+      minimum_damage_range: 45.7
+      bullet_velocity: 720.0
+      # fire_rate:
+      rate_of_fire: 245.9
+      # recoil_control:
+      recoil_gun_kick: 61.38
+      horizontal_recoil: 22.72
+      vertical_recoil: 73.74
+      # accuracy:
+      hipfire_spread_min: 2.6
+      hipfire_spread_max: 7.5
+      flinch_resistance: 0.25
+      tactical_stance_spread: 4.1
+      # mobility:
+      movement_speed: 4.2
+      crouch_movement_speed: 1.9
+      sprint_speed: 4.9
+      tactical_sprint_speed: 6.3
+      ads_movement_speed: 2.5
+      # handling:
+      ads_speed: 320.0
+      reload_quickness: 2.8
+      empty_reload_quickness: 3.0
+      sprint_to_fire_speed: 231.0
+      swap_speed: 1500.0
 
 - title: MW2
   category: アサルトライフル
