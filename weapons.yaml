@@ -1394,7 +1394,7 @@
       minimum_damage_range: 45.7
       bullet_velocity: 770.0
       # fire_rate:
-      rate_of_fire: 600.0
+      rate_of_fire: 555.6
       # recoil_control:
       recoil_gun_kick: 36.47
       horizontal_recoil: 10.61

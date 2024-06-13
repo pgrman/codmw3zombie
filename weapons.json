@@ -1192,7 +1192,7 @@
         "effective_damage_range": 25.4,
         "minimum_damage_range": 45.7,
         "bullet_velocity": 770,
-        "rate_of_fire": 600,
+        "rate_of_fire": 555.6,
         "recoil_gun_kick": 36.47,
         "horizontal_recoil": 10.61,
         "vertical_recoil": 45.24,
