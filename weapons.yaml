@@ -6033,6 +6033,43 @@
       empty_reload_quickness: 3.7
       sprint_to_fire_speed: 80.0
       swap_speed: 1100.0
+    - title: MW2
+      category: ハンドガン
+      name: JAK ガンスリンガー
+      season: S4
+      shoot_type: semi_auto
+      # damage:
+      headshot_damage: 100.0
+      upper_torso_damage: 75.0
+      lower_torso_damage: 60.0
+      upper_legs_damage: 45.0
+      target_flinch: 0.8
+      # range:
+      effective_damage_range: 6.4
+      minimum_damage_range: 31.8
+      bullet_velocity: 375.0
+      # fire_rate:
+      rate_of_fire: 400.0
+      # recoil_control:
+      recoil_gun_kick: 37.40
+      horizontal_recoil: 9.86
+      vertical_recoil: 31.28
+      # accuracy:
+      hipfire_spread_min: 1.7
+      hipfire_spread_max: 4.6
+      flinch_resistance: 0.20
+      # mobility:
+      movement_speed: 5.3
+      crouch_movement_speed: 2.3
+      sprint_speed: 6.0
+      tactical_sprint_speed: 7.3
+      ads_movement_speed: 3.7
+      # handling:
+      ads_speed: 136.0
+      reload_quickness: 3.5
+      empty_reload_quickness: 3.7
+      sprint_to_fire_speed: 72.0
+      swap_speed: 1167.0
 
 - title: MW2
   category: ハンドガン
