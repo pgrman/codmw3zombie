@@ -2839,6 +2839,49 @@
 
 - title: MW3
   category: ショットガン
+  name: RECLAIMER 18
+  season: S4
+  shoot_type: semi_auto
+  # damage:
+  headshot_damage: 88.0
+  upper_torso_damage: 88.0
+  lower_torso_damage: 40.0
+  upper_legs_damage: 40.0
+  target_flinch: 1.5
+  shotgun_spread: 1.3
+  # range:
+  effective_damage_range: 2.5
+  minimum_damage_range: 16.5
+  bullet_velocity: 320.0
+  # fire_rate:
+  rate_of_fire: 163.5
+  rechamber_time: 667.0
+  # recoil_control:
+  recoil_gun_kick: 20.00
+  horizontal_recoil: 14.04
+  vertical_recoil: 79.65
+  # accuracy:
+  hipfire_spread_min: 5.0
+  hipfire_spread_max: 7.0
+  flinch_resistance: 0.17
+  tactical_stance_spread: 4.3
+  # mobility:
+  movement_speed: 4.9
+  crouch_movement_speed: 2.1
+  sprint_speed: 5.8
+  tactical_sprint_speed: 7.1
+  ads_movement_speed: 3.0
+  # handling:
+  ads_speed: 300.0
+  reload_quickness: 7.0
+  empty_reload_quickness: 9.6
+  sprint_to_fire_speed: 128.0
+  swap_speed: 1300.0
+  # others
+  remarks: ポンプ/セミオート切替可能
+
+- title: MW3
+  category: ショットガン
   name: LOCKWOOD 680
   season: S0
   shoot_type: semi_auto
