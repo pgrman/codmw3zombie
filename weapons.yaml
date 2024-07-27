@@ -1733,6 +1733,45 @@
 
 - title: MW3
   category: サブマシンガン
+  name: STATIC-HV
+  season: S5
+  shoot_type: full_auto
+  # damage:
+  headshot_damage: 46.0
+  upper_torso_damage: 39.0
+  lower_torso_damage: 36.0
+  upper_legs_damage: 33.0
+  target_flinch: 0.8
+  # range:
+  effective_damage_range: 7.6
+  minimum_damage_range: 35.6
+  bullet_velocity: 600.0
+  # fire_rate:
+  rate_of_fire: 821.9
+  # recoil_control:
+  recoil_gun_kick: 46.04
+  horizontal_recoil: 6.41
+  vertical_recoil: 41.36
+  # accuracy:
+  hipfire_spread_min: 2.0
+  hipfire_spread_max: 5.4
+  flinch_resistance: 0.17
+  tactical_stance_spread: 2.3
+  # mobility:
+  movement_speed: 4.9
+  crouch_movement_speed: 1.9
+  sprint_speed: 5.7
+  tactical_sprint_speed: 7.1
+  ads_movement_speed: 3.6
+  # handling:
+  ads_speed: 200.0
+  reload_quickness: 2.9
+  empty_reload_quickness: 3.6
+  sprint_to_fire_speed: 99.0
+  swap_speed: 1533.0
+
+- title: MW3
+  category: サブマシンガン
   name: SUPERI 46
   season: S4
   shoot_type: full_auto,semi_auto
