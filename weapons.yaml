@@ -4779,7 +4779,6 @@
   bullet_velocity: 960.0
   # fire_rate:
   rate_of_fire: 600.0
-  rechamber_time: 1500.0
   # recoil_control:
   recoil_gun_kick: 20.00
   horizontal_recoil: 0.00
@@ -4803,6 +4802,47 @@
   # others
   punch: 弾がグレネード化
   remarks: 1発ごとにリロード
+  _children:
+    - title: MW3
+      category: スナイパーライフル
+      name: JAK ワイドマウスバレル
+      season: S3
+      shoot_type: semi_auto
+      # damage:
+      headshot_damage: 25.0
+      upper_torso_damage: 25.0
+      lower_torso_damage: 25.0
+      upper_legs_damage: 25.0
+      target_flinch: 1.5
+      shotgun_spread: 5.0
+      # range:
+      effective_damage_range: 7.6
+      minimum_damage_range: 20.3
+      bullet_velocity: 790.0
+      # fire_rate:
+      rate_of_fire: 200.0
+      # recoil_control:
+      recoil_gun_kick: 40.00
+      horizontal_recoil: 0.00
+      vertical_recoil: 64.00
+      # accuracy:
+      hipfire_spread_min: 8.0
+      hipfire_spread_max: 11.0
+      flinch_resistance: 0.85
+      # mobility:
+      movement_speed: 4.3
+      crouch_movement_speed: 2.1
+      sprint_speed: 5.6
+      tactical_sprint_speed: 6.6
+      ads_movement_speed: 3.0
+      # handling:
+      ads_speed: 280.0
+      reload_quickness: 1.6
+      empty_reload_quickness: 1.6
+      sprint_to_fire_speed: 245.0
+      swap_speed: 1499.0
+      # others
+      remarks: ショットガン化
 
 - title: MW3
   category: スナイパーライフル
