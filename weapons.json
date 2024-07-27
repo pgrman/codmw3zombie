@@ -2055,8 +2055,7 @@
         "reload_quickness": 3.4,
         "empty_reload_quickness": 3.6,
         "sprint_to_fire_speed": 110,
-        "swap_speed": 1133,
-        "punch": "3点バースト化"
+        "swap_speed": 1133
       }
     ]
   },
