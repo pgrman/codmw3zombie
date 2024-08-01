@@ -4163,6 +4163,44 @@
   empty_reload_quickness: 5.7
   sprint_to_fire_speed: 250.0
   swap_speed: 2030.0
+  _children:
+    - title: MW2
+      category: ライトマシンガン
+      name: JAK カタクリズム
+      season: S5
+      shoot_type: semi_auto
+      # damage:
+      headshot_damage: 294.0
+      upper_torso_damage: 182.0
+      lower_torso_damage: 168.0
+      upper_legs_damage: 140.0
+      target_flinch: 0.9
+      # range:
+      effective_damage_range: 35.6
+      minimum_damage_range: 50.8
+      bullet_velocity: 660.0
+      # fire_rate:
+      rate_of_fire: 133.3
+      # recoil_control:
+      recoil_gun_kick: 23.16
+      horizontal_recoil: 18.63
+      vertical_recoil: 56.45
+      # accuracy:
+      hipfire_spread_min: 3.6
+      hipfire_spread_max: 9.0
+      flinch_resistance: 0.17
+      # mobility:
+      movement_speed: 4.3
+      crouch_movement_speed: 2.0
+      sprint_speed: 5.2
+      tactical_sprint_speed: 6.4
+      ads_movement_speed: 1.5
+      # handling:
+      ads_speed: 593.0
+      reload_quickness: 5.3
+      empty_reload_quickness: 6.0
+      sprint_to_fire_speed: 325.0
+      swap_speed: 2030.0
 
 - title: MW3
   category: マークスマンライフル
