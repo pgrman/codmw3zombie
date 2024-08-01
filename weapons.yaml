@@ -5444,7 +5444,7 @@
   minimum_damage_range: 30.5
   bullet_velocity: 375.0
   # fire_rate:
-  rate_of_fire: 240.0
+  rate_of_fire: 450.8
   # recoil_control:
   recoil_gun_kick: 31.25
   horizontal_recoil: 37.28
@@ -5482,7 +5482,7 @@
       minimum_damage_range: 18.3
       bullet_velocity: 375.0
       # fire_rate:
-      rate_of_fire: 240.0
+      rate_of_fire: 399.7
       # recoil_control:
       recoil_gun_kick: 31.25
       horizontal_recoil: 37.28
@@ -5541,6 +5541,8 @@
       empty_reload_quickness: 2.1
       sprint_to_fire_speed: 101.0
       swap_speed: 1100.0
+      # others
+      remarks: 8/1 現在利用不可
 
 - title: MW3
   category: ハンドガン

@@ -4658,7 +4658,7 @@
     "effective_damage_range": 5.8,
     "minimum_damage_range": 30.5,
     "bullet_velocity": 375,
-    "rate_of_fire": 240,
+    "rate_of_fire": 450.8,
     "recoil_gun_kick": 31.25,
     "horizontal_recoil": 37.28,
     "vertical_recoil": 53.24,
@@ -4690,7 +4690,7 @@
         "effective_damage_range": 3.5,
         "minimum_damage_range": 18.3,
         "bullet_velocity": 375,
-        "rate_of_fire": 240,
+        "rate_of_fire": 399.7,
         "recoil_gun_kick": 31.25,
         "horizontal_recoil": 37.28,
         "vertical_recoil": 53.24,
@@ -4739,7 +4739,8 @@
         "reload_quickness": 2.1,
         "empty_reload_quickness": 2.1,
         "sprint_to_fire_speed": 101,
-        "swap_speed": 1100
+        "swap_speed": 1100,
+        "remarks": "8/1 現在利用不可"
       }
     ]
   },
