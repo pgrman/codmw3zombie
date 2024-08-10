@@ -4773,8 +4773,7 @@
         "reload_quickness": 2.1,
         "empty_reload_quickness": 2.1,
         "sprint_to_fire_speed": 101,
-        "swap_speed": 1100,
-        "remarks": "8/1 現在利用不可"
+        "swap_speed": 1100
       }
     ]
   },

@@ -5579,8 +5579,6 @@
       empty_reload_quickness: 2.1
       sprint_to_fire_speed: 101.0
       swap_speed: 1100.0
-      # others
-      remarks: 8/1 現在利用不可
 
 - title: MW3
   category: ハンドガン
