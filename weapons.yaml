@@ -4006,6 +4006,47 @@
   empty_reload_quickness: 8.3
   sprint_to_fire_speed: 216.0
   swap_speed: 2533.0
+  _children:
+    - title: MW2
+      category: ライトマシンガン
+      name: JAK プロティエン
+      season: S5
+      shoot_type: full_auto,semi_auto
+      # damage:
+      headshot_damage: 44.0
+      upper_torso_damage: 44.0
+      lower_torso_damage: 44.0
+      upper_legs_damage: 44.0
+      target_flinch: 0.9
+      # range:
+      effective_damage_range: 41.9
+      minimum_damage_range: 58.9
+      bullet_velocity: 810.0
+      # fire_rate:
+      rate_of_fire: 658.5
+      open_bolt_delay: 72.0
+      # recoil_control:
+      recoil_gun_kick: 18.31
+      horizontal_recoil: 21.52
+      vertical_recoil: 39.02
+      # accuracy:
+      hipfire_spread_min: 3.4
+      hipfire_spread_max: 9.9
+      flinch_resistance: 0.17
+      # mobility:
+      movement_speed: 3.8
+      crouch_movement_speed: 1.8
+      sprint_speed: 4.6
+      tactical_sprint_speed: 5.7
+      ads_movement_speed: 1.8
+      # handling:
+      ads_speed: 397.0
+      reload_quickness: 8.0
+      empty_reload_quickness: 8.3
+      sprint_to_fire_speed: 237.0
+      swap_speed: 2533.0
+      # others
+      remarks: セミオート時はダメージ増加
 
 - title: MW2
   category: ライトマシンガン
