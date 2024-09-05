@@ -77,6 +77,47 @@
   swap_speed: 1700.0
   # others
   remarks: 連射し続けると連射速度が上がる
+  _children:
+  - title: MW3
+    category: アサルトライフル
+    name: JAK デスマッチ
+    season: S5
+    shoot_type: burst
+    # damage:
+    headshot_damage: 100.0
+    upper_torso_damage: 100.0
+    lower_torso_damage: 100.0
+    upper_legs_damage: 100.0
+    target_flinch: 0.8
+    shotgun_spread: 0.3
+    # range:
+    effective_damage_range: 1.5
+    minimum_damage_range: 64.0
+    bullet_velocity: 1860.0
+    # fire_rate:
+    rate_of_fire: 994.2
+    # recoil_control:
+    recoil_gun_kick: 56.93
+    horizontal_recoil: 14.45
+    vertical_recoil: 52.11
+    # accuracy:
+    hipfire_spread_min: 2.0
+    hipfire_spread_max: 2.0
+    flinch_resistance: 0.17
+    # mobility:
+    movement_speed: 4.8
+    crouch_movement_speed: 2.4
+    sprint_speed: 5.6
+    tactical_sprint_speed: 7.0
+    ads_movement_speed: 2.8
+    # handling:
+    ads_speed: 240.0
+    reload_quickness: 3.0
+    empty_reload_quickness: 3.5
+    sprint_to_fire_speed: 239.0
+    swap_speed: 1700.0
+    # others
+    remarks: 5点バースト、ボタン長押しで発射
 
 - title: MW3
   category: アサルトライフル
