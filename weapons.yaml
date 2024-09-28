@@ -3536,6 +3536,48 @@
   empty_reload_quickness: 4.1
   sprint_to_fire_speed: 210.0
   swap_speed: 1400.0
+  _children:
+    - title: MW2
+      category: ショットガン
+      name: JAK ランス
+      season: S6
+      shoot_type: semi_auto
+      # damage:
+      headshot_damage: 300.0
+      upper_torso_damage: 225.0
+      lower_torso_damage: 225.0
+      upper_legs_damage: 150.0
+      target_flinch: 1.4
+      # range:
+      effective_damage_range: 25.4
+      minimum_damage_range: 25.4
+      bullet_velocity: 110.0
+      # fire_rate:
+      rate_of_fire: 374.3
+      rechamber_time: 1500.0
+      # recoil_control:
+      recoil_gun_kick: 53.29
+      horizontal_recoil: 8.53
+      vertical_recoil: 84.89
+      # accuracy:
+      hipfire_spread_min: 2.6
+      hipfire_spread_max: 2.9
+      flinch_resistance: 0.17
+      tactical_stance_spread: 2.0
+      # mobility:
+      movement_speed: 3.7
+      crouch_movement_speed: 2.1
+      sprint_speed: 5.7
+      tactical_sprint_speed: 6.9
+      ads_movement_speed: 3.4
+      # handling:
+      ads_speed: 220.0
+      reload_quickness: 3.0
+      empty_reload_quickness: 3.0
+      sprint_to_fire_speed: 138.0
+      swap_speed: 1400.0
+      # others
+      remarks: ボルトを発射する
 
 - title: MW2
   category: ショットガン
