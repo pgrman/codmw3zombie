@@ -5282,6 +5282,47 @@
   empty_reload_quickness: 6.1
   sprint_to_fire_speed: 351.0
   swap_speed: 2333.0
+  _children:
+    - title: MW3
+      category: スナイパーライフル
+      name: JAK サルボ
+      season: S6
+      shoot_type: semi_auto
+      # damage:
+      headshot_damage: 360.0
+      upper_torso_damage: 216.0
+      lower_torso_damage: 207.0
+      upper_legs_damage: 180.0
+      target_flinch: 1.5
+      # range:
+      effective_damage_range: 78.0
+      minimum_damage_range: 78.0
+      bullet_velocity: 200.0
+      # fire_rate:
+      rate_of_fire: 41.4
+      rechamber_time: 2100.0
+      # recoil_control:
+      recoil_gun_kick: 35.00
+      horizontal_recoil: 21.12
+      vertical_recoil: 35.14
+      # accuracy:
+      hipfire_spread_min: 11.0
+      hipfire_spread_max: 15.0
+      flinch_resistance: 0.85
+      # mobility:
+      movement_speed: 4.3
+      crouch_movement_speed: 1.9
+      sprint_speed: 5.3
+      tactical_sprint_speed: 6.3
+      ads_movement_speed: 1.4
+      # handling:
+      ads_speed: 533.0
+      reload_quickness: 4.8
+      empty_reload_quickness: 6.1
+      sprint_to_fire_speed: 351.0
+      swap_speed: 2333.0
+      # others
+      remarks: ロケットランチャー化
 
 - title: MW3
   category: スナイパーライフル
