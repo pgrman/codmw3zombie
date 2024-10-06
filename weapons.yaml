@@ -1030,10 +1030,10 @@
   season: S0
   shoot_type: full_auto,semi_auto
   # damage:
-  headshot_damage: 43.0
-  upper_torso_damage: 35.0
-  lower_torso_damage: 35.0
-  upper_legs_damage: 31.0
+  headshot_damage: 44.0
+  upper_torso_damage: 36.0
+  lower_torso_damage: 36.0
+  upper_legs_damage: 32.0
   target_flinch: 1.2
   # range:
   effective_damage_range: 36.8
@@ -1348,7 +1348,7 @@
   # damage:
   headshot_damage: 67.0
   upper_torso_damage: 58.0
-  lower_torso_damage: 58.0
+  lower_torso_damage: 45.0
   upper_legs_damage: 45.0
   target_flinch: 1.0
   # range:
@@ -3301,7 +3301,7 @@
   target_flinch: 1.5
   shotgun_spread: 2.7
   # range:
-  effective_damage_range: 1.8
+  effective_damage_range: 3.3
   minimum_damage_range: 27.2
   bullet_velocity: 320.0
   # fire_rate:
@@ -3342,7 +3342,7 @@
   target_flinch: 1.5
   shotgun_spread: 2.5
   # range:
-  effective_damage_range: 2.5
+  effective_damage_range: 3.6
   minimum_damage_range: 24.4
   bullet_velocity: 320.0
   # fire_rate:
@@ -3383,7 +3383,7 @@
   target_flinch: 1.5
   shotgun_spread: 3.0
   # range:
-  effective_damage_range: 3.3
+  effective_damage_range: 4.1
   minimum_damage_range: 26.7
   bullet_velocity: 320.0
   # fire_rate:
@@ -3424,7 +3424,7 @@
   target_flinch: 1.5
   shotgun_spread: 2.7
   # range:
-  effective_damage_range: 2.9
+  effective_damage_range: 3.6
   minimum_damage_range: 25.7
   bullet_velocity: 320.0
   # fire_rate:
@@ -3592,7 +3592,7 @@
   target_flinch: 1.5
   shotgun_spread: 3.0
   # range:
-  effective_damage_range: 3.0
+  effective_damage_range: 3.8
   minimum_damage_range: 23.9
   bullet_velocity: 320.0
   # fire_rate:
@@ -4981,7 +4981,7 @@
   # range:
   effective_damage_range: 52.0
   minimum_damage_range: 52.0
-  bullet_velocity: 110.0
+  bullet_velocity: 200.0
   # fire_rate:
   rate_of_fire: 54.5
   # recoil_control:
@@ -5050,13 +5050,13 @@
   season: S0
   shoot_type: semi_auto
   # damage:
-  headshot_damage: 240.0
-  upper_torso_damage: 151.0
-  lower_torso_damage: 151.0
-  upper_legs_damage: 120.0
+  headshot_damage: 260.0
+  upper_torso_damage: 163.0
+  lower_torso_damage: 156.0
+  upper_legs_damage: 130.0
   target_flinch: 1.2
   # range:
-  effective_damage_range: 17.8
+  effective_damage_range: 7.6
   minimum_damage_range: 44.2
   bullet_velocity: 720.0
   # fire_rate:
@@ -6215,13 +6215,13 @@
   season: S0
   shoot_type: semi_auto
   # damage:
-  headshot_damage: 104.0
-  upper_torso_damage: 67.0
-  lower_torso_damage: 59.0
-  upper_legs_damage: 52.0
+  headshot_damage: 118.0
+  upper_torso_damage: 76.0
+  lower_torso_damage: 67.0
+  upper_legs_damage: 59.0
   target_flinch: 0.8
   # range:
-  effective_damage_range: 9.1
+  effective_damage_range: 4.6
   minimum_damage_range: 28.4
   bullet_velocity: 250.0
   # fire_rate:
@@ -6253,14 +6253,14 @@
       season: S0
       shoot_type: semi_auto
       # damage:
-      headshot_damage: 62.0
-      upper_torso_damage: 40.0
-      lower_torso_damage: 35.0
-      upper_legs_damage: 31.0
+      headshot_damage: 70.0
+      upper_torso_damage: 45.0
+      lower_torso_damage: 40.0
+      upper_legs_damage: 35.0
       target_flinch: 0.8
       # range:
-      effective_damage_range: 7.3
-      minimum_damage_range: 22.8
+      effective_damage_range: 3.7
+      minimum_damage_range: 16.3
       bullet_velocity: 250.0
       # fire_rate:
       rate_of_fire: 285.7
@@ -6291,14 +6291,14 @@
   season: S0
   shoot_type: semi_auto
   # damage:
-  headshot_damage: 153.0
-  upper_torso_damage: 123.0
-  lower_torso_damage: 104.0
-  upper_legs_damage: 95.0
+  headshot_damage: 187.0
+  upper_torso_damage: 150.0
+  lower_torso_damage: 127.0
+  upper_legs_damage: 116.0
   target_flinch: 0.8
   # range:
-  effective_damage_range: 17.3
-  minimum_damage_range: 35.1
+  effective_damage_range: 8.6
+  minimum_damage_range: 17.3
   bullet_velocity: 470.0
   # fire_rate:
   rate_of_fire: 166.7
@@ -6329,14 +6329,14 @@
       season: S0
       shoot_type: semi_auto
       # damage:
-      headshot_damage: 106.0
-      upper_torso_damage: 85.0
-      lower_torso_damage: 72.0
-      upper_legs_damage: 66.0
+      headshot_damage: 131.0
+      upper_torso_damage: 105.0
+      lower_torso_damage: 89.0
+      upper_legs_damage: 81.0
       target_flinch: 0.8
       # range:
-      effective_damage_range: 13.8
-      minimum_damage_range: 28.0
+      effective_damage_range: 6.9
+      minimum_damage_range: 13.8
       bullet_velocity: 470.0
       # fire_rate:
       rate_of_fire: 166.7
@@ -6367,14 +6367,14 @@
   season: S0
   shoot_type: semi_auto
   # damage:
-  headshot_damage: 62.0
-  upper_torso_damage: 50.0
-  lower_torso_damage: 42.0
-  upper_legs_damage: 39.0
+  headshot_damage: 75.0
+  upper_torso_damage: 61.0
+  lower_torso_damage: 51.0
+  upper_legs_damage: 47.0
   target_flinch: 0.8
   # range:
   effective_damage_range: 17.3
-  minimum_damage_range: 35.8
+  minimum_damage_range: 27.4
   bullet_velocity: 375.0
   # fire_rate:
   rate_of_fire: 363.6
@@ -6405,14 +6405,14 @@
       season: S0
       shoot_type: semi_auto
       # damage:
-      headshot_damage: 49.0
-      upper_torso_damage: 40.0
-      lower_torso_damage: 34.0
-      upper_legs_damage: 31.0
+      headshot_damage: 44.0
+      upper_torso_damage: 36.0
+      lower_torso_damage: 30.0
+      upper_legs_damage: 28.0
       target_flinch: 0.8
       # range:
       effective_damage_range: 17.3
-      minimum_damage_range: 35.8
+      minimum_damage_range: 27.4
       bullet_velocity: 375.0
       # fire_rate:
       rate_of_fire: 363.6
@@ -6443,14 +6443,14 @@
   season: S0
   shoot_type: semi_auto
   # damage:
-  headshot_damage: 210.0
+  headshot_damage: 262.0
   upper_torso_damage: 157.0
   lower_torso_damage: 126.0
-  upper_legs_damage: 94.0
+  upper_legs_damage: 105.0
   target_flinch: 0.8
   # range:
   effective_damage_range: 11.4
-  minimum_damage_range: 41.9
+  minimum_damage_range: 33.0
   bullet_velocity: 375.0
   # fire_rate:
   rate_of_fire: 299.6
@@ -6481,14 +6481,14 @@
       season: S0
       shoot_type: semi_auto
       # damage:
-      headshot_damage: 146.0
+      headshot_damage: 182.0
       upper_torso_damage: 109.0
       lower_torso_damage: 87.0
-      upper_legs_damage: 65.0
+      upper_legs_damage: 73.0
       target_flinch: 0.8
       # range:
       effective_damage_range: 9.1
-      minimum_damage_range: 33.5
+      minimum_damage_range: 26.4
       bullet_velocity: 375.0
       # fire_rate:
       rate_of_fire: 299.6
@@ -6518,10 +6518,10 @@
       season: S4
       shoot_type: semi_auto
       # damage:
-      headshot_damage: 100.0
+      headshot_damage: 125.0
       upper_torso_damage: 75.0
       lower_torso_damage: 60.0
-      upper_legs_damage: 45.0
+      upper_legs_damage: 50.0
       target_flinch: 0.8
       # range:
       effective_damage_range: 6.4
@@ -6556,14 +6556,14 @@
   season: S0
   shoot_type: full_auto
   # damage:
-  headshot_damage: 35.0
-  upper_torso_damage: 24.0
-  lower_torso_damage: 24.0
-  upper_legs_damage: 22.0
+  headshot_damage: 38.0
+  upper_torso_damage: 26.0
+  lower_torso_damage: 26.0
+  upper_legs_damage: 24.0
   target_flinch: 0.8
   # range:
   effective_damage_range: 5.1
-  minimum_damage_range: 30.5
+  minimum_damage_range: 17.8
   bullet_velocity: 375.0
   # fire_rate:
   rate_of_fire: 1199.3
@@ -6594,14 +6594,14 @@
       season: S0
       shoot_type: full_auto
       # damage:
-      headshot_damage: 13.0
-      upper_torso_damage: 13.0
-      lower_torso_damage: 13.0
-      upper_legs_damage: 10.0
+      headshot_damage: 15.0
+      upper_torso_damage: 15.0
+      lower_torso_damage: 15.0
+      upper_legs_damage: 11.0
       target_flinch: 0.8
       # range:
       effective_damage_range: 4.1
-      minimum_damage_range: 24.4
+      minimum_damage_range: 14.2
       bullet_velocity: 375.0
       # fire_rate:
       rate_of_fire: 1199.3
@@ -6634,12 +6634,12 @@
   # damage:
   headshot_damage: 76.0
   upper_torso_damage: 54.0
-  lower_torso_damage: 49.0
-  upper_legs_damage: 37.0
+  lower_torso_damage: 54.0
+  upper_legs_damage: 47.0
   target_flinch: 0.8
   # range:
   effective_damage_range: 14.0
-  minimum_damage_range: 22.9
+  minimum_damage_range: 14.0
   bullet_velocity: 470.0
   # fire_rate:
   rate_of_fire: 487.8
@@ -6677,7 +6677,7 @@
       target_flinch: 0.8
       # range:
       effective_damage_range: 11.2
-      minimum_damage_range: 18.3
+      minimum_damage_range: 11.2
       bullet_velocity: 470.0
       # fire_rate:
       rate_of_fire: 487.8
@@ -6784,21 +6784,21 @@
   season: S0
   shoot_type: full_auto
   # damage:
-  headshot_damage: 30.0
-  upper_torso_damage: 27.0
-  lower_torso_damage: 25.0
-  upper_legs_damage: 23.0
+  headshot_damage: 34.0
+  upper_torso_damage: 31.0
+  lower_torso_damage: 29.0
+  upper_legs_damage: 27.0
   target_flinch: 0.8
   # range:
   effective_damage_range: 5.6
-  minimum_damage_range: 30.0
+  minimum_damage_range: 18.3
   bullet_velocity: 375.0
   # fire_rate:
   rate_of_fire: 923.1
   # recoil_control:
   recoil_gun_kick: 17.31
-  horizontal_recoil: 7.15
-  vertical_recoil: 31.67
+  horizontal_recoil: 6.49
+  vertical_recoil: 28.35
   # accuracy:
   hipfire_spread_min: 3.0
   hipfire_spread_max: 8.0
@@ -6822,21 +6822,21 @@
       season: S0
       shoot_type: full_auto
       # damage:
-      headshot_damage: 18.0
-      upper_torso_damage: 18.0
-      lower_torso_damage: 18.0
-      upper_legs_damage: 14.0
+      headshot_damage: 15.0
+      upper_torso_damage: 15.0
+      lower_torso_damage: 15.0
+      upper_legs_damage: 11.0
       target_flinch: 0.8
       # range:
       effective_damage_range: 5.6
-      minimum_damage_range: 30.0
+      minimum_damage_range: 18.3
       bullet_velocity: 375.0
       # fire_rate:
       rate_of_fire: 923.1
       # recoil_control:
       recoil_gun_kick: 17.31
-      horizontal_recoil: 7.15
-      vertical_recoil: 31.67
+      horizontal_recoil: 6.49
+      vertical_recoil: 28.35
       # accuracy:
       hipfire_spread_min: 1.8
       hipfire_spread_max: 4.8
